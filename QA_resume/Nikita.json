@@ -1,0 +1,88 @@
+{
+    "model": "mistral",
+    "created_at": "2025-05-07T09:15:33.5166786Z",
+    "message": {
+        "role": "assistant",
+        "content": {
+            "summary": "A candidate with nearly 2 years of experience as a Programmer Analyst at Cognizant, Pune. Offering expertise in Quality Assurance processes and testing tools like Selenium, JIRA, SQL, Cucumber BDD, and Manual Testing. Possesses leadership skills, demonstrated by effective communication, fostering team collaboration, and making decisions to ensure project success.",
+            "experience": [
+                {
+                    "title": "Programmer Analyst",
+                    "company": "Cognizant, Pune",
+                    "duration": "July 2022- Present",
+                    "responsibilities": [
+                        "Spearheaded data collection, analysis, and visualization initiatives",
+                        "Designed and executed comprehensive test cases for various applications",
+                        "Conducted schema testing to validate data integrity",
+                        "Collaborated closely with clients to understand project expectations",
+                        "Implemented quality assurance processes to ensure high-quality software solutions",
+                        "Utilized automation testing tools to enhance testing processes",
+                        "Implemented defect tracking tools for efficient bug identification and resolution",
+                        "Conducted regression testing to identify and rectify software defects",
+                        "Led user acceptance testing initiatives to gather feedback from stakeholders"
+                    ]
+                }
+            ],
+            "projects": [
+                {
+                    "title": "Identify Car Wash Services",
+                    "technologies_used": [
+                        "Selenium"
+                    ],
+                    "objectives": "Automate the process of fetching details and managing alerts",
+                    "contributions": "Developed a project utilizing Selenium testing technology"
+                }
+            ],
+            "skills": [
+                "Core Java",
+                "JIRA",
+                "Selenium",
+                "SQL",
+                "Waterfall Model",
+                "Data Validation",
+                "Cucumber BDD",
+                "Manual Testing",
+                "Defect Tracking Tools",
+                "Regression Testing",
+                "Performance Testing",
+                "User Acceptance Testing"
+            ],
+            "certifications": [
+                {
+                    "name": "JIRA Essentials",
+                    "provider": "Udemy",
+                    "duration": "02/2024 - 02/2024"
+                },
+                {
+                    "name": "Introduction to Manual Testing",
+                    "provider": "Great Learning Academy",
+                    "duration": "01/2024 - 01/2024"
+                },
+                {
+                    "name": "Cucumber BDD",
+                    "provider": "Udemy",
+                    "duration": "05/2022 - 05/2022"
+                }
+            ],
+            "candidate_attributes_inferred": {
+                "academic_performance": "Graduated with a Bachelor of Technology in Electrical and Electronics from Oriental College of Technology, Bhopal, Madhya Pradesh, India, in 2022",
+                "initiative_and_self_learning": "Continuously expanding skill set through certifications and self-study",
+                "teamwork_or_leadership_traits": "Demonstrated leadership skills through effective communication, fostering team collaboration, and making decisions to ensure project success",
+                "communication_clarity": "Effective communication with clients and stakeholders",
+                "standout_traits": [
+                    "Attained the Coral Award in 2023",
+                    "Proficient in quality assurance methodologies and best practices",
+                    "Mastering the use of Selenium testing technology to streamline processes"
+                ]
+            }
+        }
+    },
+    "done_reason": "stop",
+    "done": true,
+    "total_duration": 141343325500,
+    "load_duration": 4613100,
+    "prompt_eval_count": 1167,
+    "prompt_eval_duration": 33754488200,
+    "eval_count": 856,
+    "eval_duration": 107580117400
+}

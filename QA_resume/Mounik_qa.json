@@ -1,0 +1,97 @@
+{
+    "model": "mistral",
+    "created_at": "2025-05-07T09:09:09.1985467Z",
+    "message": {
+        "role": "assistant",
+        "content": {
+            "summary": "QA Engineer with over 3 years of experience in manual testing, functional testing, API testing, mobile testing, and compatibility testing. Proficient in using tools such as Jira, Trello, TestRail, Virtuoso, Postman, Lambda, Clever Tap, Google Page Speed, Ahrefs, SEO Peek, SEO Quake, and GA4 Events.",
+            "experience": [
+                {
+                    "title": "QA Engineer",
+                    "company": "Kothamounik",
+                    "duration": "Sep 2023 - Present",
+                    "responsibilities": [
+                        "Involved in Smoke, Functional, and Regression Testing.",
+                        "Experience in API testing.",
+                        "Responsible for Executing Test cases and creating defects in JIRA.",
+                        "Collaborated with cross-functional teams to understand project requirements and ensure alignment with quality objectives."
+                    ]
+                },
+                {
+                    "title": "QA Engineer",
+                    "company": "Kothamounik",
+                    "duration": "Feb 2022 - May 2023",
+                    "responsibilities": [
+                        "Designing Test Cases, Execution of the test cases, and reporting the bugs.",
+                        "Conducted Functional testing with Valid and Invalid inputs for positive and negative testing.",
+                        "Performed performance testing. Performed Load testing for API and UI/UX using the JMeter tool."
+                    ]
+                },
+                {
+                    "title": "QA Engineer",
+                    "company": "Pixis One",
+                    "duration": "Jul 2020 - Jan 2022",
+                    "responsibilities": [
+                        "Understanding the Business Requirements Specifications.",
+                        "Conducted Functional testing with Valid and Invalid inputs for positive and negative testing.",
+                        "Performed performance testing."
+                    ]
+                }
+            ],
+            "projects": [
+                {
+                    "title": "Aerchain",
+                    "technologies_used": [
+                        "AngularJS"
+                    ],
+                    "objectives": "Developing a product using AngularJS.",
+                    "contributions": "Involved in Smoke, Functional, and Regression Testing. Responsible for Executing Test cases and creating defects in JIRA."
+                }
+            ],
+            "skills": [
+                "Manual Testing",
+                "Functional Testing",
+                "API Testing",
+                "Mobile Testing",
+                "Compatibility Testing",
+                "Jira",
+                "Trello",
+                "TestRail",
+                "Virtuoso",
+                "Postman",
+                "Lambda",
+                "Clever Tap",
+                "Google Page Speed",
+                "Ahrefs",
+                "SEO Peek",
+                "SEO Quake",
+                "GA4 Events"
+            ],
+            "certifications": [
+                {
+                    "name": "Software Testing certificate",
+                    "issuer": "ABC institute of technology"
+                },
+                {
+                    "name": "Product Development certificate",
+                    "issuer": "Synergy Mind Solutions"
+                }
+            ],
+            "candidate_attributes_inferred": {
+                "academic_performance": "Graduated from Nri Institute Of Technology with a Bachelor of Technology in 2019.",
+                "initiative_and_self_learning": "Developed comprehensive test plans and strategies based on software requirements, ensuring maximum coverage of functional and non-functional aspects.",
+                "teamwork_or_leadership_traits": "Worked with cross-functional teams in an agile mode, actively participating in review, retrospective meetings, and requirement analysis.",
+                "communication_clarity": "Prepared and presented detailed test reports and metrics to facilitate decision-making processes and ensure transparency in quality assurance efforts.",
+                "standout_traits": "Expertise in analyzing functional requirements and translating them into test cases."
+            }
+        }
+    },
+    "done_reason": "stop",
+    "done": true,
+    "total_duration": 178623928900,
+    "load_duration": 5153700,
+    "prompt_eval_count": 1546,
+    "prompt_eval_duration": 56380842200,
+    "eval_count": 954,
+    "eval_duration": 122232760800
+}

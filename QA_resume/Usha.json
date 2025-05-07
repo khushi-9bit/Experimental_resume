@@ -1,0 +1,90 @@
+{
+    "model": "mistral",
+    "created_at": "2025-05-07T09:39:35.8945973Z",
+    "message": {
+        "role": "assistant",
+        "content": {
+            "summary": "QA Test Engineer with 2.5 years of experience in Manual Testing, SQL, Jira, Postman, and Automation Testing using Selenium Web Driver. Excellent academic performance (8.84 CGPA) with a Bachelor's degree in Mathematics. Skilled in Agile Methodology, Functional and Non-Functional Testing, and various testing methodologies such as Sanity Testing, Regression Testing, Smoke Testing. Proficient in using tools like JIRA, Postman, Maven, eclipse IDE, and SQL. Demonstrates strong communication skills and initiative with the ability to collaborate closely with development teams.",
+            "experience": [
+                {
+                    "title": "QA Engineer",
+                    "company": "Tecmicra Solutions",
+                    "duration": "(May 2022-present)",
+                    "responsibilities": [
+                        "Developed comprehensive Test Cases for full website functionality.",
+                        "Used JIRA for efficient bug reporting and task management.",
+                        "Engaged in daily standup meetings to streamline workflows.",
+                        "Implemented Agile methodology for optimal product quality.",
+                        "Conducted Ad-hoc testing for UI and Code-related issues.",
+                        "Contributed to subscription and recurring plans implementation.",
+                        "Utilized Mysql and Stripe for rigorous payment evaluation."
+                    ]
+                }
+            ],
+            "projects": [
+                {
+                    "title": "Subscription and Membership Purchase",
+                    "details": {
+                        "technologies_used": [
+                            "SQL",
+                            "JIRA",
+                            "Postman"
+                        ],
+                        "objectives": [
+                            "Test Case Creation and Execution",
+                            "Database Testing",
+                            "End-to-End Flow Testing",
+                            "Invoice Generation and Email Notification"
+                        ],
+                        "contributions": [
+                            "Developed comprehensive test cases and test scenarios.",
+                            "Conducted rigorous testing of the database.",
+                            "Executed end-to-end testing of the entire user journey.",
+                            "Checked the generation of accurate invoices after successful transactions.",
+                            "Verified the automated sending of email notifications to users.",
+                            "Documented all test results."
+                        ]
+                    }
+                }
+            ],
+            "skills": [
+                "JIRA",
+                "Postman",
+                "SQL",
+                "Agile Methodology",
+                "Sanity Testing",
+                "Selenium web driver",
+                "TestNG",
+                "Regression Testing",
+                "Smoke Testing",
+                "Java",
+                "eclipse IDE",
+                "Maven"
+            ],
+            "certifications": [],
+            "candidate_attributes_inferred": {
+                "academic_performance": "Excellent academic performance (8.84 CGPA)",
+                "initiative_and_self_learning": "2.5 years of experience, self-taught various testing methodologies and tools",
+                "teamwork_or_leadership_traits": "Collaborated closely with development teams, streamlined workflows through daily standup meetings",
+                "communication_clarity": "Documented all test results, provided a comprehensive reference for future analysis",
+                "standout_traits": "Strong problem-solving skills, ability to adapt and learn quickly"
+            },
+            "languages": [
+                "English",
+                "Hindi"
+            ],
+            "interests": [
+                "Journaling",
+                "Designing"
+            ]
+        }
+    },
+    "done_reason": "stop",
+    "done": true,
+    "total_duration": 127657511600,
+    "load_duration": 4165700,
+    "prompt_eval_count": 998,
+    "prompt_eval_duration": 26650014000,
+    "eval_count": 815,
+    "eval_duration": 100999724700
+}

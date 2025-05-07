@@ -1,0 +1,85 @@
+{
+    "model": "mistral",
+    "created_at": "2025-05-07T09:00:12.4792992Z",
+    "message": {
+        "role": "assistant",
+        "content": {
+            "summary": "2.5 years of industry experience in QA \u0026 Manual Testing with expertise in Functional \u0026 Non-Functional Testing, Mobile Testing, Regression Testing, and API Testing. Familiar with Agile methodology and test documentation.",
+            "experience": [
+                {
+                    "title": "QA Executive",
+                    "company": "Crisil limited",
+                    "duration": "Jun 2023 - Jun 2024",
+                    "responsibilities": [
+                        "Understanding the business requirements, preparing test scenario, test data \u0026 test cases.",
+                        "Involvement in Test Execution, Results Analyzing and Defect Reporting.",
+                        "Conducting Data Driven Testing, Cross Browser Testing, API Testing and Parallel Test Execution.",
+                        "Involved in Functional \u0026 Regression Testing.",
+                        "Reviewed Test Reports and Prepared Summary Reports.",
+                        "Managing Daily Status Report and Weekly Status Report."
+                    ]
+                },
+                {
+                    "title": "Process Executive",
+                    "company": "Nvidia graphics private limited",
+                    "duration": "Jun 2021 - Nov 2022",
+                    "responsibilities": [
+                        "Preparing End User Guide PPTs For All The Modules.",
+                        "Knowledge In The Area Of Manual Testing."
+                    ]
+                },
+                {
+                    "title": "Software Test Interns",
+                    "company": "Bjshub Software",
+                    "duration": "May 2020 - July 2020",
+                    "responsibilities": [
+                        "Understanding Requirement Specifications And Design Documents."
+                    ]
+                }
+            ],
+            "projects": [
+                {
+                    "title": "Web Testing",
+                    "technologies_used": [
+                        "Agile",
+                        "Postman",
+                        "Jira",
+                        "Manual Testing"
+                    ],
+                    "objectives": "Testing Web Applications On Different Environments",
+                    "contributions": "Involvement in Test Execution, Results Analyzing and Defect Reporting."
+                }
+            ],
+            "skills": [
+                "Manual Testing",
+                "Postman",
+                "JIRA",
+                "API Testing",
+                "Agile",
+                "Functional \u0026 Non-Functional Testing",
+                "Sanity Testing",
+                "Regression Testing"
+            ],
+            "certifications": [],
+            "candidate_attributes_inferred": {
+                "academic_performance": "67.6% in Bachelor of Engineering, 73% in HSC, and 83.66% in SSC",
+                "initiative_and_self_learning": [
+                    "Workshops On Robotics And 3d Printing In Oist Bhopal",
+                    "Workshop On Ethical Hackings In Oist Bhopal",
+                    "Industrial Training- Bhel Bhopal"
+                ],
+                "teamwork_or_leadership_traits": "",
+                "communication_clarity": "",
+                "standout_traits": ""
+            }
+        }
+    },
+    "done_reason": "stop",
+    "done": true,
+    "total_duration": 151178780800,
+    "load_duration": 1795840300,
+    "prompt_eval_count": 981,
+    "prompt_eval_duration": 52275669600,
+    "eval_count": 744,
+    "eval_duration": 97103671600
+}

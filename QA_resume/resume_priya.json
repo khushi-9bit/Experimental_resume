@@ -1,0 +1,111 @@
+{
+    "model": "mistral",
+    "created_at": "2025-05-07T09:26:21.1985498Z",
+    "message": {
+        "role": "assistant",
+        "content": {
+            "summary": "Detail-oriented Manual/Automation Tester with 2.5 years of experience in software testing, specializing in Python, REST APIs, and automation frameworks. Strong analytical skills, passion for continuous learning, and a focus on enhancing software quality through meticulous testing strategies and cross-functional collaboration.",
+            "experience": [
+                {
+                    "title": "Software Engineer",
+                    "company": "Persistent Systems Limited",
+                    "duration": "02/2022 – 07/2024",
+                    "responsibilities": [
+                        "Conducted comprehensive testing, including functional, regression, and performance testing.",
+                        "Improved test coverage and automated testing efforts using Selenium and Pytest.",
+                        "Worked collaboratively with developers and business analysts in an Agile environment.",
+                        "Performed backend testing, API testing, and optimized testing through SQL and GraphQL queries.",
+                        "Led the integration of automation frameworks with Pytest and Allure/Html for continuous testing and detailed results tracking."
+                    ]
+                }
+            ],
+            "projects": [
+                {
+                    "title": "Data Library Project",
+                    "details": {
+                        "technologies_used": [
+                            "Mathematica's Mquiry platform",
+                            "Selenium",
+                            "Pytest"
+                        ],
+                        "objectives": "To create a highly secure, cloud-based solution for data collaboration.",
+                        "contributions": [
+                            "Led comprehensive testing efforts to ensure seamless functionality across various browsers and devices.",
+                            "Developed automated test scripts using Selenium and Pytest.",
+                            "Conducted backend testing and data integrity validation with SQL queries.",
+                            "Integrated automation frameworks with Pytest and utilized Allure/Html reports for results tracking.",
+                            "Created test cases and automated them to streamline the testing process.",
+                            "Ensured the platform's robustness through continuous integration testing using Pytest.",
+                            "Performed API testing using Postman and GraphQL."
+                        ]
+                    }
+                },
+                {
+                    "title": "Community Project",
+                    "details": {
+                        "technologies_used": [
+                            "Selenium",
+                            "Python"
+                        ],
+                        "objectives": "To develop a knowledge-sharing platform that allows users to post questions and provide solutions to others.",
+                        "contributions": [
+                            "Implemented front-end and back-end testing to ensure the reliability of user interactions.",
+                            "Automated testing processes for the platform using Selenium and Python.",
+                            "Conducted load testing to ensure platform scalability.",
+                            "Led the end-to-end testing process, including functional, UI, and performance testing."
+                        ]
+                    }
+                },
+                {
+                    "title": "Mini Project: Online Coffee Shop Order Website",
+                    "details": {
+                        "technologies_used": [
+                            "Python",
+                            "Django",
+                            "HTML",
+                            "CSS"
+                        ],
+                        "objectives": "To design and implement a fully functional e-commerce site."
+                    }
+                }
+            ],
+            "skills": [
+                "Testing and debugging",
+                "SQL",
+                "REST APIs",
+                "Python",
+                "Pytest",
+                "Linux",
+                "Django",
+                "GraphQL",
+                "Selenium with Python",
+                "Team Collaboration",
+                "Manual Testing",
+                "Automation Testing",
+                "Test Case Creation",
+                "Html"
+            ],
+            "certifications": [
+                "Microsoft AZ-900 Fundamentals",
+                "Associated Cloud Engineer",
+                "GenAI Assisted Coding Using Amazon CodeWhisperer",
+                "MongoDB (SI Associate)"
+            ],
+            "candidate_attributes_inferred": {
+                "academic_performance": "Bachelor of Engineering: Information Science And Engineering from Alva's Institute of Engineering Technology, Mijar - India",
+                "initiative_and_self_learning": "Developed a knowledge-sharing platform and an online coffee shop order website.",
+                "teamwork_or_leadership_traits": "Led comprehensive testing efforts, automated test scripts, and end-to-end testing processes in projects.",
+                "communication_clarity": "Able to articulate responsibilities, technologies used, objectives, and contributions in project descriptions.",
+                "standout_traits": "Detail-oriented, meticulous, analytical, passionate about continuous learning and development in the software domain."
+            }
+        }
+    },
+    "done_reason": "stop",
+    "done": true,
+    "total_duration": 162094900300,
+    "load_duration": 5318600,
+    "prompt_eval_count": 987,
+    "prompt_eval_duration": 26627977900,
+    "eval_count": 1079,
+    "eval_duration": 135458002700
+}

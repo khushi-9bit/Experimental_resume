@@ -1,0 +1,95 @@
+{
+    "model": "mistral",
+    "created_at": "2025-05-07T09:36:21.8023444Z",
+    "message": {
+        "role": "assistant",
+        "content": {
+            "summary": "Software testing professional with proficiency in Agile methodologies, software testing techniques (unit, integration, functional \u0026 automation), and bug tracking tools like JIRA \u0026 Mantis Bug Tracker. Strong understanding of SDLC and STLC principles. Achieved a 40% increase in average order value and a 25% boost in user engagement metrics for an academic project using MERN stack.",
+            "experience": [
+                {
+                    "title": "Software Testing Professional",
+                    "company": "N/A",
+                    "duration": "Present - May 2023",
+                    "responsibilities": [
+                        "Understanding and Analyzing Test Requirements.",
+                        "Contribution to Test Plan Documentation.",
+                        "Updating Test Cases and Test Data.",
+                        "Understanding of configuration management and version control systems."
+                    ]
+                }
+            ],
+            "projects": [
+                {
+                    "title": "Emotion Based Music Player",
+                    "technologies_used": [
+                        "YouTube"
+                    ],
+                    "objectives": "Recognizes the 7 emotions of the user and plays the music accordingly.",
+                    "contributions": "Developed and implemented."
+                },
+                {
+                    "title": "Team selection and winning Prediction in Cricket using Machine Learning Techniques",
+                    "technologies_used": [
+                        "Machine Learning"
+                    ],
+                    "objectives": "Predict team selection and winning in cricket matches.",
+                    "contributions": "Developed and implemented."
+                },
+                {
+                    "title": "Interactive Ekart Website",
+                    "technologies_used": [
+                        "MERN stack"
+                    ],
+                    "objectives": "Enhance user engagement and increase average order value.",
+                    "contributions": "Developed and implemented. Resulted in a 40% increase in average order value and a 25% boost in user engagement metrics."
+                },
+                {
+                    "title": "Health Tracking Application",
+                    "technologies_used": [
+                        "Manual Testing using JIRA Bug Tracking Tool"
+                    ],
+                    "objectives": "Develop a web application for health tracking.",
+                    "contributions": "Developed and tested the application using manual testing with JIRA."
+                }
+            ],
+            "skills": [
+                "Software Testing",
+                "Agile methodologies",
+                "Test Automation \u0026 Maintenance",
+                "Test Planning \u0026 Execution",
+                "Quality Assurance \u0026 Troubleshooting",
+                "Bug Tracking (JIRA, Mantis Bug Tracker)",
+                "Communication"
+            ],
+            "certifications": [
+                {
+                    "name": "AWS Academy Graduate - AWS Academy Cloud Foundations",
+                    "issuer": "AWS Academy"
+                },
+                {
+                    "name": "Microsoft Technology Associate - Introduction to programming using python",
+                    "issuer": "Microsoft"
+                },
+                {
+                    "name": "Coursera - Optimizing a Website for Google Search",
+                    "issuer": "Coursera"
+                }
+            ],
+            "candidate_attributes_inferred": {
+                "academic_performance": "Not specified",
+                "initiative_and_self_learning": "Developed and implemented several academic projects.",
+                "teamwork_or_leadership_traits": "Collaborated with peers, participated in code reviews, supported team objectives.",
+                "communication_clarity": "Able to clearly communicate test cases, findings, and recommendations to technical and non-technical audiences.",
+                "standout_traits": "Problem-solving, learning agility, adaptability, willingness to learn new skills quickly, ownership, teamwork, flexibility"
+            }
+        }
+    },
+    "done_reason": "stop",
+    "done": true,
+    "total_duration": 162580678200,
+    "load_duration": 4628700,
+    "prompt_eval_count": 1238,
+    "prompt_eval_duration": 52758224300,
+    "eval_count": 874,
+    "eval_duration": 109813214100
+}

@@ -1,0 +1,4 @@
+If no experience and projects are considered as experience
+Taking only some part of bulleted points from shailendra.pdf and ommiting some part
+considered youtube as technology from sridhar pdf and considered academic_performance as null because of non clarity
+Added extra part for language and interests in Usha.pdf

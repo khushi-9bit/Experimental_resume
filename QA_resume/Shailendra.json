@@ -1,0 +1,71 @@
+{
+    "model": "mistral",
+    "created_at": "2025-05-07T09:31:16.3466899Z",
+    "message": {
+        "role": "assistant",
+        "content": {
+            "summary": "Senior Software Tester with 9 years of experience and expertise in software testing, possessing strong leadership skills and a proven track record of achieving efficiency improvements and quality enhancements. Has client-facing experience in Poland.",
+            "experience": [
+                {
+                    "title": "Senior Software Testing Engineer",
+                    "company": "EPAM Systems (India u0026 Poland)",
+                    "duration": "Sep 2022 - Present",
+                    "responsibilities": [
+                        "Implementing industry-leading policies, processes, and best practices to achieve a 20% increase in efficiency.",
+                        "Delivering structured mentoring, guidance, and training resulting in a 30% reduction in onboarding time.",
+                        "Coordinating and providing hands-on support during user and pre-production testing phases.",
+                        "Spearheading meticulous review processes of User Stories, Definition of Ready (DOR), and Definition of Done (DOD).",
+                        "Taking charge of test scenarios/scripts preparation, peer review, and BA's review.",
+                        "Facilitating and driving scrum meetings such as Sprint Review.",
+                        "Conducting informative demo sessions on the latest developed functionalities.",
+                        "Conducting thorough reviews of test automation execution plans.",
+                        "Creating and maintaining requirement matrices with a 100% accuracy rate.",
+                        "Assuming complete ownership of assigned modules, delivering with maximum efficiency."
+                    ]
+                },
+                {
+                    "title": "Associate",
+                    "company": "Cognizant Technology Solutions (India u0026 Poland)",
+                    "duration": "May 2015 - Aug 2022",
+                    "responsibilities": [
+                        "Orchestrating the implementation of industry-leading policies, processes, and best practices to achieve a 20% increase in efficiency.",
+                        "Delivering structured mentoring, guidance, and training resulting in a 30% reduction in onboarding time for new team members.",
+                        "Coordinating and providing hands-on support during user and pre-production testing phases, leading to a 15% reduction in defect leakage.",
+                        "Spearheading meticulous review processes of User Stories, Definition of Ready (DOR), and Definition of Done (DOD), achieving a 90% compliance rate.",
+                        "Taking charge of test scenarios/scripts preparation, peer review, and BA's review, leading to a 20% reduction in defect escape rate and ensuring a 100% sign-off rate before deployment."
+                    ]
+                }
+            ],
+            "projects": [],
+            "skills": [
+                "Functional Testing",
+                "Agile/Scrum",
+                "JIRA",
+                "Temenos T24",
+                "SQL",
+                "HP ALM",
+                "Selenium WebDriver",
+                "Postman",
+                "API Testing",
+                "ADO Test Automation",
+                "qTest"
+            ],
+            "certifications": [],
+            "candidate_attributes_inferred": {
+                "academic_performance": "Graduated from RKDF Institute of Science u0026 Technology, Bhopal in 2014 with a Bachelor of Engineering.",
+                "initiative_and_self_learning": "Displayed leadership by spearheading meticulous review processes and facilitating scrum meetings.",
+                "teamwork_or_leadership_traits": "Led a team, delivered structured mentoring, guidance, and training, resulting in efficiency improvements and quality enhancements.",
+                "communication_clarity": "Effectively bridged communication gaps with clients during onshore client-facing experience.",
+                "standout_traits": "Achieved a 20% increase in efficiency, a 30% reduction in onboarding time for new team members, and a 95% adherence to project timelines and quality standards."
+            }
+        }
+    },
+    "done_reason": "stop",
+    "done": true,
+    "total_duration": 139802614200,
+    "load_duration": 4088900,
+    "prompt_eval_count": 1035,
+    "prompt_eval_duration": 28949356100,
+    "eval_count": 903,
+    "eval_duration": 110845585600
+}

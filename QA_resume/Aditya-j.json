@@ -1,0 +1,129 @@
+{
+    "model": "mistral",
+    "created_at": "2025-05-07T09:03:49.5469408Z",
+    "message": {
+        "role": "assistant",
+        "content": {
+            "summary": "Computer Science graduate with strong back-end experience in SQL databases and proficiency in front-end technologies including HTML/CSS, JavaScript, and React. Possesses a startup mentality, strong problem-solving skills, and effective communication skills.",
+            "experience": [
+                {
+                    "title": "Expense Tracker Developer",
+                    "company": "Self",
+                    "duration": "N/A",
+                    "responsibilities": [
+                        "Developed a web application to track and categorize personal expenses.",
+                        "Implemented user authentication for secure data management.",
+                        "Integrated features for categorizing expenses and generating reports with charts using JavaScript library."
+                    ],
+                    "skills_used": [
+                        "Python",
+                        "HTML",
+                        "CSS",
+                        "JavaScript"
+                    ],
+                    "ownership_taken": [
+                        "Development of the application"
+                    ],
+                    "impact": "Enhanced personal finance management for users by providing a usable and data-visualizing tool."
+                },
+                {
+                    "title": "To-Do List Mobile App Developer",
+                    "company": "Self",
+                    "duration": "N/A",
+                    "responsibilities": [
+                        "Developed a To-Do List mobile app for efficient task management.",
+                        "Created an easy-to-use interface with the ability to generate reminders and mark tasks as completed."
+                    ],
+                    "skills_used": [
+                        "Java",
+                        "SQLite"
+                    ],
+                    "ownership_taken": [
+                        "Development of the app"
+                    ],
+                    "impact": "Improved user productivity by providing a straightforward solution for task organization."
+                },
+                {
+                    "title": "Algorithm Visualizer Developer",
+                    "company": "Self",
+                    "duration": "N/A",
+                    "responsibilities": [
+                        "Developed an application to visualize different algorithms using React.",
+                        "Visualized algorithms, including Bubble Sort, Merge Sort, Insertion Sort, etc."
+                    ],
+                    "skills_used": [
+                        "HTML",
+                        "CSS",
+                        "JavaScript",
+                        "React.js"
+                    ],
+                    "ownership_taken": [
+                        "Development of the application"
+                    ],
+                    "impact": "Enhanced understanding of algorithms for users by providing visualization and step-by-step execution."
+                }
+            ],
+            "projects": [
+                {
+                    "title": "Algorithm Visualizer",
+                    "technologies_used": [
+                        "HTML",
+                        "CSS",
+                        "JavaScript",
+                        "React.js"
+                    ],
+                    "objectives": "Visualize different algorithms and enhance understanding of algorithms.",
+                    "contributions": "Developed an application that visualizes algorithms, including Bubble Sort, Merge Sort, Insertion Sort, etc."
+                },
+                {
+                    "title": "To-Do List Mobile App",
+                    "technologies_used": [
+                        "Java",
+                        "SQLite"
+                    ],
+                    "objectives": "Develop a simple and intuitive tool for users to manage tasks efficiently.",
+                    "contributions": "Created a mobile app with an easy-to-use interface, allowing users to create, edit, prioritize, set reminders, mark tasks as completed, and organize tasks into different categories."
+                },
+                {
+                    "title": "Expense Tracker",
+                    "technologies_used": [
+                        "Python (Flask or Django)",
+                        "HTML",
+                        "CSS",
+                        "JavaScript"
+                    ],
+                    "objectives": "Develop a web application to track and categorize personal expenses with a focus on usability and data visualization.",
+                    "contributions": "Created a web application for expense tracking, implementing user authentication, categorizing expenses, generating reports with charts using JavaScript library, and ensuring responsive design."
+                }
+            ],
+            "skills": [
+                "Programming Languages: Java, Python, JSP, JavaScript, HTML, CSS, MYSQL",
+                "Frameworks and Libraries: Django, Flask, React.js",
+                "Tools: Git, GitHub, JDBC(APIs), Figma(UI/UX), Android Studio, Visual Studio",
+                "Operating System: Windows, Linux, Mac"
+            ],
+            "certifications": [
+                {
+                    "name": "OCI Generative AI Professional",
+                    "issuer": "Oracle",
+                    "year_earned": "2024"
+                }
+            ],
+            "candidate_attributes_inferred": {
+                "academic_performance": "8.74 CGPA in Bachelor of Technology in Computer Science",
+                "initiative_and_self_learning": "Solved over 500 coding problems on various coding platforms, secured 94th rank in a GeeksforGeeks (GFG) contest.",
+                "teamwork_or_leadership_traits": "Led a team in the Smart India Hackathon (SIH).",
+                "communication_clarity": "Effective communication skills mentioned in the summary.",
+                "standout_traits": "Startup mentality, strong problem-solving skills."
+            }
+        }
+    },
+    "done_reason": "stop",
+    "done": true,
+    "total_duration": 174994313200,
+    "load_duration": 4102400,
+    "prompt_eval_count": 956,
+    "prompt_eval_duration": 26050458600,
+    "eval_count": 1165,
+    "eval_duration": 148936692700
+}
