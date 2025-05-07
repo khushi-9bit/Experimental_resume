@@ -1,0 +1,97 @@
+{
+    "model": "mistral",
+    "created_at": "2025-05-07T10:02:57.9822299Z",
+    "message": {
+        "role": "assistant",
+        "content": {
+            "summary": "Ayush Harsh is a graduate from the Indian Institute of Management Rohtak with an MBA degree and a B.Sc in Transportation Tech from the National Rail and Transportation Institute, Vadodara. He has demonstrated strong skills in digital marketing, sales, research, and leadership through various internships and academic projects.",
+            "experience": [
+                {
+                    "title": "Sales and Marketing Intern",
+                    "company": "Shapoorji Pallonji",
+                    "duration": "Apr’24 – Jun’24",
+                    "responsibilities": [
+                        "Analyzed 15+ competitors and led the implementation of pricing strategies to boost product launch u0026 increase market absorption.",
+                        "Spearheaded market research in 2 regions, calculating PSF based on 3 criteria, resulting in an increase in lead conversion for GTM.",
+                        "Compiled u0026 leveraged critical data on 30+ projects from over 15 leading developers, enhancing the sales team effectiveness."
+                    ]
+                },
+                {
+                    "title": "Content Writer Intern",
+                    "company": "SportsZion",
+                    "duration": "Apr’23 – Jun’23",
+                    "responsibilities": [
+                        "Responded to audience comments and inquiries with an average monthly footfall of 250-280 to improve page views by 15%.",
+                        "Published 5 SEO optimized articles daily to organically increase unique visitors by 27% and achieve higher ranking in SERP.",
+                        "Increased click-through-rates u0026 blog homepage visits by 19% u0026 12% respectively through creating u0026 sharing viral sports content."
+                    ]
+                },
+                {
+                    "title": "Digital Marketing Intern",
+                    "company": "Triplou",
+                    "duration": "Apr’23 – Jun’23",
+                    "responsibilities": [
+                        "Conducted market research and competitor benchmarking leading to 37% increase in user conversion by identifying gaps.",
+                        "Implemented content calendars u0026 schedules, ensuring timely delivery u0026 publication of content to increase user engagement by 16%.",
+                        "Collaborated with graphics designers and media professionals to implement infographics leading to 19% decrease in bounce rate.",
+                        "Increased CTR and page views by 23% and 29% by analyzing market trends, drafted user personas to develop travel packages."
+                    ]
+                },
+                {
+                    "title": "Nagpur Metro Operations Intern",
+                    "company": "Nagpur Metro",
+                    "duration": "Jul’21 – Sep’21",
+                    "responsibilities": [
+                        "Analyzed 4 processes u0026 learned the function of Operations Control Centre to achieve maximum efficiency in operating the metro.",
+                        "Spearheaded meeting and brainstorming sessions to enhance customer satisfaction through installing bookshops and eateries.",
+                        "Delivered detailed project report to OCC, Finance, and Rolling Stock department head while supervising a team of 4."
+                    ]
+                },
+                {
+                    "title": "Industrial Live Project Digital Marketing Intern",
+                    "company": "CXO India",
+                    "duration": "",
+                    "responsibilities": [
+                        "Identified gaps and increased lead generation by 18%, increasing visibility of the brand.",
+                        "Aided in organizing a panel discussion involving 35+ CXOs from leading tech companies.",
+                        "Enhanced website navigation through UX changes, leading to 20% decrease in bounce rate."
+                    ]
+                }
+            ],
+            "projects": [
+                {
+                    "title": "National Rail and Transportation Institute Survey",
+                    "technologies_used": "",
+                    "objectives": "To understand the management of household waste by 100+ participants.",
+                    "contributions": "Discovered 89.1% of the participants were ready to segregate waste for an average of Rs 10/Kg and projected revenue of Rs 54,000/household/year u0026 reduce waste management by 3.4%."
+                }
+            ],
+            "skills": [
+                "Digital marketing",
+                "Sales",
+                "Research",
+                "Leadership",
+                "Teamwork"
+            ],
+            "certifications": [
+                "E-Commerce Marketing certification",
+                "Python, Data Sciences, Microeconomics certifications on Coursera"
+            ],
+            "candidate_attributes_inferred": {
+                "academic_performance": "88.00% in Class XII,93.10% in Class X",
+                "initiative_and_self_learning": "Organized TedX talks, Blood Donation Campaign, volunteered during COVID.",
+                "teamwork_or_leadership_traits": "Led teams in sports events, football team, and industrial projects.",
+                "communication_clarity": "Responded to audience comments, published articles daily.",
+                "standout_traits": "Secured 1st Position in Model United Nations Debate, College E-Sports Call of Duty Tournament."
+            }
+        }
+    },
+    "done_reason": "stop",
+    "done": true,
+    "total_duration": 224939829800,
+    "load_duration": 1806395300,
+    "prompt_eval_count": 1639,
+    "prompt_eval_duration": 60240151400,
+    "eval_count": 1215,
+    "eval_duration": 162887617000
+}

@@ -1,0 +1,94 @@
+{
+    "model": "mistral",
+    "created_at": "2025-05-07T10:11:42.632025Z",
+    "message": {
+        "role": "assistant",
+        "content": {
+            "summary": "MBA candidate with a background in Commerce, currently attending Indian Institute of Management, Rohtak. Possesses strong analytical skills and proven leadership abilities as demonstrated through roles at IIM Rohtak, TEDx IIM Rohtak, Enactus DDUC, and various internships at Indian Railways and Createintime. Skilled in conducting research, developing strategies, and managing projects.",
+            "experience": [
+                {
+                    "title": "MBA",
+                    "company": "Indian Institute of Management, Rohtak",
+                    "duration": "2023-25",
+                    "responsibilities": "Conducted academic projects like Rural Engagement Programme. Represented the batch in Academic Committee and handled student-related issues. President of Enactus DDUC and officially registered the organization."
+                },
+                {
+                    "title": "CRM Intern",
+                    "company": "Createintime",
+                    "duration": "2024",
+                    "responsibilities": "Led outreach efforts, coordinated client calls, monitored campaigns, managed client feedback, boosted satisfaction, and contributed to consistency in the retention rate."
+                },
+                {
+                    "title": "Industrial Live Projects - Management Consultant",
+                    "company": "Takshashila Consuling",
+                    "duration": "2024",
+                    "responsibilities": "Conducted in-depth research, analyzed client ecosystems, benchmarked performance against domestic standards, developed a comprehensive acceleration strategy."
+                },
+                {
+                    "title": "Summer Intern",
+                    "company": "Indian Railways",
+                    "duration": "Apr’ 24 – May’ 24",
+                    "responsibilities": "Executed primary surveys u0026 field visits, analyzed implementation of schemes and freight movement, assessed consumer awareness, proposed improvements."
+                }
+            ],
+            "projects": [
+                {
+                    "title": "Rural Engagement Programme",
+                    "technologies_used": "",
+                    "objectives": "Conducted research across various individuals in Ambala, surveyed stakeholders across 4 sectors, evaluated impact u0026 efficiency of government policies.",
+                    "contributions": "Submitted detailed policy recommendations to government officials for robust decision-making."
+                },
+                {
+                    "title": "Karnika and Saranyu Projects",
+                    "technologies_used": "",
+                    "objectives": "Spearheaded u0026 successfully launched projects, oversaw Ru0026D, enhanced project viability.",
+                    "contributions": "Organized u0026 conducted project-specific events, including ‘Nexus’ and ‘Relationships 101’."
+                }
+            ],
+            "skills": [
+                "Analytical skills",
+                "Strategic planning",
+                "Project management",
+                "Research",
+                "Leadership"
+            ],
+            "certifications": [
+                {
+                    "title": "Basics of Stock Market",
+                    "issuer": "Skill Enrichment Program",
+                    "year": "2021"
+                },
+                {
+                    "title": "PGDCA Diploma Degree",
+                    "issuer": "Institute of Professional Studies and Business",
+                    "year": "2022"
+                },
+                {
+                    "title": "5-year Diploma Degree in Fine Arts training",
+                    "issuer": "AFACS",
+                    "year": "2023"
+                },
+                {
+                    "title": "Classical Music training",
+                    "issuer": "Akhil Bharatiya Gandharva Mahavidyalay Mandal",
+                    "year": "Ongoing"
+                }
+            ],
+            "candidate_attributes_inferred": {
+                "academic_performance": "70.01% in B.Com (Hons.) and 33.57% in MBA.",
+                "initiative_and_self_learning": "Conducted primary surveys, research projects, and launched projects at Enactus DDUC.",
+                "teamwork_or_leadership_traits": "Organized TEDx IIM Rohtak, served as Head of Curators, Coordinator in Academic Committee, President of Enactus DDUC.",
+                "communication_clarity": "Communicated effectively during research projects and internships.",
+                "standout_traits": "Recognized as top 10 teams on campus in Jal Yatra B-Plan conducted by AIWCL, pursued Classical Music training."
+            }
+        }
+    },
+    "done_reason": "stop",
+    "done": true,
+    "total_duration": 176721704900,
+    "load_duration": 4078400,
+    "prompt_eval_count": 1332,
+    "prompt_eval_duration": 45403210700,
+    "eval_count": 1063,
+    "eval_duration": 131309601500
+}

@@ -1,0 +1,59 @@
+{
+    "model": "mistral",
+    "created_at": "2025-05-07T10:16:19.6345051Z",
+    "message": {
+        "role": "assistant",
+        "content": {
+            "summary": "RIMJHIM NIGAM is a graduate from Indian Institute of Management Rohtak with an MBA degree. He has also completed his B.A. Hons. in Economics from Banaras Hindu University with a high GPA. His experience includes serving as a member of the teaching team at Snowdrop Foundation, an NGO that focuses on educating and caring for underprivileged children living in slums. In addition, he has held positions of responsibility such as Coordinator of the Junior Team, Hospitality Committee, IIM Rohtak and Coordinator of the Student Organizing Committee, Sheiling House School. He also secured first position in Quill Skill (Prose writing) competition and Kangaroo Words competition of the annual literary fest. He is certified as an analyst, advisor u0026 marketer of consumer financial products under NiSM, SEBI.",
+            "experience": [
+                {
+                    "title": "Member, Teaching Team",
+                    "company": "Snowdrop Foundation, Varanasi",
+                    "duration": "20XX-20YY",
+                    "responsibilities": "Educating and caring for underprivileged children living in slums, conducting weekly sports events, drawing competitions, interactive drives, clothes collection drives, food distribution drives, parent meetings."
+                },
+                {
+                    "title": "Coordinator, Junior Team, Hospitality Committee, IIM Rohtak",
+                    "company": "IIM Rohtak",
+                    "duration": "2023-2024",
+                    "responsibilities": "Acting as a liaison between students and administration to resolve issues of 700+ students, maintaining and regularly updating the web portal of the Hospitality Committee, responsible for maintaining the daily operations of the campus mess, maintaining the social media channel to increase the awareness of the Committee."
+                },
+                {
+                    "title": "Coordinator, Student Organising Committee, Sheiling House School",
+                    "company": "Sheiling House School",
+                    "duration": "2023-2024",
+                    "responsibilities": "Responsible for planning and scheduling events with the team for each day of the event, planned brochure for the school committee, highlighting initiatives, and upcoming events, managed proper communication with the school administration and faculty, promoted student participation and school spirit by community interaction sessions."
+                }
+            ],
+            "projects": [],
+            "skills": [
+                "Prose writing",
+                "Teamwork",
+                "Leadership",
+                "Communication"
+            ],
+            "certifications": [
+                {
+                    "name": "Certified as an analyst, advisor u0026 marketer of consumer financial products",
+                    "issuing_body": "NiSM, SEBI",
+                    "year": "2019"
+                }
+            ],
+            "candidate_attributes_inferred": {
+                "academic_performance": "High academic performance with consistently high GPA in undergraduate and graduate studies.",
+                "initiative_and_self_learning": "Learnt investment strategies, valuation, risk assessment, and mitigation as an asset manager, participated in various events and competitions.",
+                "teamwork_or_leadership_traits": "Served as a member of the teaching team at Snowdrop Foundation, acted as a liaison between students and administration to resolve issues, responsible for planning and scheduling events with the team.",
+                "communication_clarity": "Secured first position in Quill Skill (Prose writing) competition and Kangaroo Words competition of the annual literary fest.",
+                "standout_traits": "Certified as an analyst, advisor u0026 marketer of consumer financial products under NiSM, SEBI."
+            }
+        }
+    },
+    "done_reason": "stop",
+    "done": true,
+    "total_duration": 129550032700,
+    "load_duration": 4416900,
+    "prompt_eval_count": 910,
+    "prompt_eval_duration": 25453617200,
+    "eval_count": 851,
+    "eval_duration": 104088123000
+}

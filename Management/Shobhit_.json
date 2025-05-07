@@ -1,0 +1,87 @@
+{
+    "model": "mistral",
+    "created_at": "2025-05-07T10:52:31.6336642Z",
+    "message": {
+        "role": "assistant",
+        "content": {
+            "summary": "A developer specializing in API integration and development, currently working at Accenture. Skilled in various programming languages such as Dataweave, Raml, XML, Json, Solidity, Java, SQL, Python, JavaScript, Apex (Basic), and possesses expertise in technologies like Mulesoft 4.4, Blockchain, Git, ReactJs, Salesforce(Basic).",
+            "experience": [
+                {
+                    "title": "Developer",
+                    "company": "Accenture",
+                    "duration": "Dec 2022- Present",
+                    "responsibilities": [
+                        "Designed and implemented integration solutions using MuleSoft...",
+                        "Built transformation logic in the process layer...",
+                        "Secured the integration process with OAuth 2.0...",
+                        "Ensured API efficiency and reliability...",
+                        "Deployed APIs on Anypoint Platform’s CloudHub 2.0..."
+                    ]
+                }
+            ],
+            "projects": [
+                {
+                    "title": "Blockchain Raffle Lottery Game",
+                    "technologies_used": [
+                        "Solidity",
+                        "Hardhat",
+                        "NodeJs",
+                        "JS",
+                        "ReactJS",
+                        "IPFS",
+                        "Fleek",
+                        "VSCode"
+                    ],
+                    "objective": "A Web3-based Raffle Lottery game...",
+                    "contributions": "Ensured complete transparency and immutability of entries and funds..."
+                }
+            ],
+            "skills": [
+                "Dataweave",
+                "Raml",
+                "XML",
+                "Json",
+                "Solidity",
+                "Java",
+                "SQL",
+                "Python",
+                "JavaScript",
+                "Apex (Basic)",
+                "Mulesoft 4.4",
+                "Blockchain",
+                "Git",
+                "ReactJs",
+                "Salesforce(Basic)"
+            ],
+            "certifications": [
+                {
+                    "issuer": "Salesforce",
+                    "certification_name": "MuleSoft Certified Developer - Level 1"
+                },
+                {
+                    "issuer": "Salesforce",
+                    "certification_name": "Salesforce Certified Admintrator"
+                },
+                {
+                    "issuer": "University of Buffalo",
+                    "certification_name": "Blockchain Specialization"
+                }
+            ],
+            "candidate_attributes_inferred": {
+                "academic_performance": "8.13/10 from B.E (ISE) at College CMR Institute of Technology",
+                "initiative_and_self_learning": "Successfully completed Salesforce admin, Apex, triggers, and LWC training...",
+                "teamwork_or_leadership_traits": "Collaborated on MuleSoft Integration and Migration project...",
+                "communication_clarity": "Effectively communicated responsibilities and contributions in the context...",
+                "standout_traits": "Excelled in creating efficient solutions, delivering high-quality results, and adapting innovative technical solutions across diverse business domains and industries."
+            }
+        }
+    },
+    "done_reason": "stop",
+    "done": true,
+    "total_duration": 124156626500,
+    "load_duration": 1798811500,
+    "prompt_eval_count": 1051,
+    "prompt_eval_duration": 32607329400,
+    "eval_count": 743,
+    "eval_duration": 89746162100
+}

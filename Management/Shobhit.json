@@ -1,0 +1,92 @@
+{
+    "model": "mistral",
+    "created_at": "2025-05-07T10:22:23.5136068Z",
+    "message": {
+        "role": "assistant",
+        "content": {
+            "summary": "A Developer specializing in API integration and development at Accenture, with proficiency in languages such as Dataweave, RAML, XML, Json, Solidity, Java, SQL, Python, JavaScript, Apex (Basic), and ReactJs. Demonstrates dedication, continuous learning, adaptability, and a focus on delivering high-quality results.",
+            "experience": [
+                {
+                    "title": "Developer",
+                    "company": "Accenture",
+                    "duration": "Dec 2022- Present",
+                    "responsibilities": [
+                        "Completed Salesforce admin, Apex, triggers, and LWC training.",
+                        "Designed and implemented integration solutions using MuleSoft.",
+                        "Developed and maintained API specifications using RAML.",
+                        "Integrated Veeva Vault as the source system and transferred data to downstream systems.",
+                        "Built transformation logic in the process layer, including watermark and delta record implementation.",
+                        "Secured the integration process with OAuth 2.0 for authorization and JWT validation for authentication.",
+                        "Deployed APIs on Anypoint Platform’s CloudHub 2.0 and handled API monitoring and runtime management in Anypoint platform.",
+                        "Ensuring API efficiency and reliability in the life sciences domain, focusing on best practices and robust testing."
+                    ]
+                }
+            ],
+            "projects": [
+                {
+                    "title": "Blockchain Raffle Lottery Game",
+                    "technologies_used": [
+                        "Solidity",
+                        "Hardhat",
+                        "NodeJs",
+                        "JS",
+                        "ReactJS",
+                        "IPFS",
+                        "Fleek",
+                        "VSCode"
+                    ],
+                    "objective": "To create a Web3-based Raffle Lottery game that ensures transparency, immutability of entries and funds, and equal chances for all participants.",
+                    "contributions": "Developed a unique verification system that allows each account to participate only once, ensured manual selection of a winner upon node activation, and utilized Ethereum smart contracts."
+                }
+            ],
+            "skills": [
+                "Dataweave",
+                "RAML",
+                "XML",
+                "Json",
+                "Solidity",
+                "Java",
+                "SQL",
+                "Python",
+                "JavaScript",
+                "Apex (Basic)",
+                "ReactJs",
+                "Mulesoft 4.4",
+                "Blockchain",
+                "Git"
+            ],
+            "certifications": [
+                {
+                    "name": "MuleSoft Certified Developer - Level 1",
+                    "issuer": "Salesforce"
+                },
+                {
+                    "name": "Salesforce Certified Adminstrator",
+                    "issuer": "Salesforce"
+                },
+                {
+                    "name": "Blockchain Specialization",
+                    "issuer": "University of Buffalo"
+                }
+            ],
+            "candidate_attributes_inferred": {
+                "academic_performance": "8.13/10",
+                "initiative_and_self_learning": true,
+                "teamwork_or_leadership_traits": true,
+                "communication_clarity": true,
+                "standout_traits": [
+                    "Adaptability",
+                    "Focus on delivering high-quality results"
+                ]
+            }
+        }
+    },
+    "done_reason": "stop",
+    "done": true,
+    "total_duration": 127010218800,
+    "load_duration": 4069900,
+    "prompt_eval_count": 1051,
+    "prompt_eval_duration": 29974293500,
+    "eval_count": 796,
+    "eval_duration": 97027792900
+}

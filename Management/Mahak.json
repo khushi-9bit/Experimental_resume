@@ -1,0 +1,74 @@
+{
+    "model": "mistral",
+    "created_at": "2025-05-07T10:08:29.1960031Z",
+    "message": {
+        "role": "assistant",
+        "content": {
+            "summary": "MBA candidate from IIM Rohtak with a BBA(MS) degree from International Institute of Professional Studies, Indore. Has experience in Business Development and Content Internship roles. Involved in various academic projects and initiatives, including developing a strategic business plan for a pet-friendly café and organizing events at IIM Rohtak. Achievements include Academic Excellence Award and top rankings in school and college competitions.",
+            "experience": [
+                {
+                    "title": "Business Developer",
+                    "company": "Reetesh Trading Corporation",
+                    "duration": "May ’23 – May ’24",
+                    "responsibilities": [
+                        "Implemented an inventory system to increase sales and customer loyalty.",
+                        "Established a 5-stage process for efficient inventory management.",
+                        "Improved customer retention by 75% through efficient inventory practices.",
+                        "Contributed to a 3–5% increase in sales."
+                    ]
+                },
+                {
+                    "title": "Content Intern",
+                    "company": "TopRankers Edtech Solutions Private Limited",
+                    "duration": "July '23 – Jun ’24",
+                    "responsibilities": [
+                        "Developed 10+ practice booklets and reviewed 200+ test papers.",
+                        "Organized 5 interactive boot camps and student events.",
+                        "Trained more than 50 candidates for interviews."
+                    ]
+                }
+            ],
+            "projects": [
+                {
+                    "title": "Pet-friendly Café Business Idea",
+                    "institution": "International Institute of Professional Studies, DAVV",
+                    "technologies_used": "",
+                    "objectives": "Formulated a strategic business plan for maximizing growth and integrating all functional areas.",
+                    "contributions": "Developed a proof of concept for the café by setting up a stall on our college campus."
+                }
+            ],
+            "skills": [
+                "Business Development",
+                "Inventory Management",
+                "Customer Relationship",
+                "Content Creation",
+                "Event Organization",
+                "Teamwork",
+                "Leadership",
+                "Strategic Planning"
+            ],
+            "certifications": [
+                {
+                    "name": "Google SEO Fundamentals course",
+                    "institution": "University of California, Davis",
+                    "year": "2024"
+                }
+            ],
+            "candidate_attributes_inferred": {
+                "academic_performance": "High academic performance with a consistent track record.",
+                "initiative_and_self_learning": "Demonstrated initiative and self-learning through personal projects, internships, and certifications.",
+                "teamwork_or_leadership_traits": "Showcased teamwork and leadership traits through roles in Business Development, academic projects, and extra-curricular activities.",
+                "communication_clarity": "Effective communication skills are implied through various projects and interactions.",
+                "standout_traits": "Achievements such as Academic Excellence Award and top rankings in competitions highlight standout traits."
+            }
+        }
+    },
+    "done_reason": "stop",
+    "done": true,
+    "total_duration": 134689445300,
+    "load_duration": 4095300,
+    "prompt_eval_count": 1239,
+    "prompt_eval_duration": 43331842400,
+    "eval_count": 737,
+    "eval_duration": 91349163700
+}
