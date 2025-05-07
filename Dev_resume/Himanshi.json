@@ -1,0 +1,108 @@
+{
+    "model": "mistral",
+    "created_at": "2025-05-07T07:25:21.7972065Z",
+    "message": {
+        "role": "assistant",
+        "content": {
+            "summary": "Software Engineer with experience in automating workflows using Python APIs and developing robust dashboards. Skilled in web development, machine learning, and data analysis. Demonstrated leadership skills through team management and event organization.",
+            "experience": [
+                {
+                    "title": "Software Engineer",
+                    "company": "Simplability",
+                    "duration": "June’24 - Present",
+                    "responsibilities": [
+                        "Automated Odoo workflows via Python APIs, optimizing billing, journal entries, price tracking, and expense management",
+                        "Engineered a robust Appsmith dashboard in JavaScript, analyzing 20k+ records for actionable insights and decision-making",
+                        "Developed a Vue.js app with PocketBase, enabling seamless product image capture, data entry, real-time Odoo integration"
+                    ]
+                },
+                {
+                    "title": "Software Engineering Intern",
+                    "company": "Pepperfry Private Limited",
+                    "duration": "May’23 - Jul’23",
+                    "responsibilities": [
+                        "Expected 15% user engagement through RAG model to propose both similar and complementary items",
+                        "Projected to provide the personalized product suggestions in \u003c60 sec through prompt and image inputs",
+                        "Automated communication thread comprehension, reducing time/thread \u0026 markedly improving efficiency"
+                    ]
+                }
+            ],
+            "projects": [
+                {
+                    "title": "Music Recommendation System",
+                    "technologies_used": [
+                        "Python",
+                        "Spotify API"
+                    ],
+                    "objectives": [
+                        "Developed a music recommendation system using content-based filtering on Spotify Database"
+                    ],
+                    "contributions": [
+                        "Implemented Cosine Similarity \u0026 Euclidean Distance for song similarity, recommended popular tunes with sorting algo"
+                    ]
+                },
+                {
+                    "title": "Analysis of a Residential Structure",
+                    "technologies_used": [
+                        "ETABS software"
+                    ],
+                    "objectives": [
+                        "Implemented Structural Design principles on G+3 model, enhancing learning through optimized beams, columns \u0026 slabs"
+                    ],
+                    "contributions": [
+                        "Utilized ETABS software to analyze and validate designs, aligning with Indian Standard 456-2000 through hand calculations"
+                    ]
+                }
+            ],
+            "skills": [
+                "Python",
+                "JavaScript",
+                "SQL",
+                "HTML",
+                "CSS",
+                "Bootstrap",
+                "ReactJS",
+                "Git and GitHub",
+                "Numpy",
+                "Pandas",
+                "MatplotLib",
+                "LangChain",
+                "Scikit Learn",
+                "Django",
+                "Flask",
+                "MERN",
+                "OS: Windows",
+                "Tools: MS Excel, MS Powerpoint, Word, PowerBI, Tableau, Azure DevOps, Postman"
+            ],
+            "certifications": [
+                {
+                    "name": "Core Structural Mechanics",
+                    "issuer": "IIT Bombay"
+                },
+                {
+                    "name": "Machine Learning with Python",
+                    "issuer": "IBM | CognitiveClass.ai"
+                },
+                {
+                    "name": "Web Development Bootcamp",
+                    "issuer": "Udemy"
+                }
+            ],
+            "candidate_attributes_inferred": {
+                "academic_performance": "Awarded an AA grade (top 16%) in the course Introduction to Electrical and Electronic Circuits",
+                "initiative_and_self_learning": "Successfully completed Python course on Learner space 2021, conducted by UGAC, IIT Bombay",
+                "teamwork_or_leadership_traits": "Spearheaded a 2-tier team of 100+ students for building and maintaining the website and various events",
+                "communication_clarity": "Pioneered and launched the 1st ever accommodation portal with 1.5M+ hits",
+                "standout_traits": "Successfully completed the yearlong training in Weight-lifting under National Sports Organisation, IITB"
+            }
+        }
+    },
+    "done_reason": "stop",
+    "done": true,
+    "total_duration": 267727891100,
+    "load_duration": 1799296200,
+    "prompt_eval_count": 2598,
+    "prompt_eval_duration": 129395898000,
+    "eval_count": 993,
+    "eval_duration": 136523556000
+}

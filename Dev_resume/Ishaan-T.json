@@ -1,0 +1,86 @@
+{
+    "model": "mistral",
+    "created_at": "2025-05-07T07:45:12.278755Z",
+    "message": {
+        "role": "assistant",
+        "content": {
+            "summary": "A recent graduate with a B.Tech in Electronic and Communication Engineering, driven by a strong desire to advance professionally. Passionate about starting a career in a fast-paced corporate setting and eager to share abilities, wisdom, and creative ideas.",
+            "experience": [
+                {
+                    "title": "Student",
+                    "company": "Gyan Ganga Institute Of Technology And Science, Jabalpur",
+                    "duration": "2019 – 2023",
+                    "responsibilities": [
+                        "Developed a Password Generator using JavaScript, HTML, and CSS.",
+                        "Created Smart Shopping Trolley with Automated Billing System using Arduino, RFID Cards, and Readers."
+                    ]
+                }
+            ],
+            "projects": [
+                {
+                    "title": "Password Generator",
+                    "technologies_used": [
+                        "JavaScript",
+                        "HTML",
+                        "CSS"
+                    ],
+                    "objectives": "To create a password generator that can generate strong passwords with the option to select length and password components.",
+                    "contributions": "Developed the frontend and backend of the password generator."
+                },
+                {
+                    "title": "Smart Shopping Trolley",
+                    "technologies_used": [
+                        "Arduino",
+                        "C++"
+                    ],
+                    "objectives": "To develop an automated billing system for shopping trolleys that reduces waiting times and improves customer experience.",
+                    "contributions": "Designed and implemented the hardware (RFID Cards and Readers) and software (Arduino IDE, C++) aspects of the project."
+                }
+            ],
+            "skills": [
+                "JavaScript",
+                "C/C++",
+                "HTML5",
+                "CSS3",
+                "Tailwind",
+                "Git",
+                "MS Excel",
+                "SQL",
+                "PowerBI"
+            ],
+            "certifications": [
+                {
+                    "name": "C (Cisco Networking Academy)",
+                    "year_issued": "2021"
+                },
+                {
+                    "name": "C++ (Cisco Networking Academy)",
+                    "year_issued": "2022"
+                },
+                {
+                    "name": "Introduction To IOT (Cisco Networking Academy)",
+                    "year_issued": "2023"
+                },
+                {
+                    "name": "Introduction To CyberSecurity (Cisco Networking Academy)",
+                    "year_issued": "2023"
+                }
+            ],
+            "candidate_attributes_inferred": {
+                "academic_performance": "CGPA: 8.0/10",
+                "initiative_and_self_learning": "Developed multiple projects during college tenure.",
+                "teamwork_or_leadership_traits": "Collaborated on smart shopping trolley project with team.",
+                "communication_clarity": "Effective verbal and written communication skills mentioned.",
+                "standout_traits": "Strong understanding of core concepts, analytical thinking, work planning, and prioritization."
+            }
+        }
+    },
+    "done_reason": "stop",
+    "done": true,
+    "total_duration": 138419622000,
+    "load_duration": 6831386900,
+    "prompt_eval_count": 798,
+    "prompt_eval_duration": 40470103100,
+    "eval_count": 743,
+    "eval_duration": 91112334400
+}

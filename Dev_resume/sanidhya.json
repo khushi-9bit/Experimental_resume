@@ -1,0 +1,157 @@
+{
+    "model": "mistral",
+    "created_at": "2025-05-07T08:00:36.8618676Z",
+    "message": {
+        "role": "assistant",
+        "content": {
+            "summary": "Sanidhya Singh is a Junior Data Scientist at MoreYeahs Technologies, with a B.Tech in Information Technology from Medi-Caps University. They have demonstrated strong analytical skills and proficiency in various tools such as Python, FastAPI, MTCNN, PyTorch, Inception ResNet, Dataiku, and Apache Beam.",
+            "experience": [
+                {
+                    "title": "Junior Data Scientist",
+                    "company": "MoreYeahs Technologies",
+                    "duration": "Oct. 2022 – Present",
+                    "responsibilities": [
+                        "Contributed to the development of a Bank Statement Analyser, employing OCR and Pandas for data manipulation.",
+                        "Led individual and collaborative projects involving Jetson Nano-based human detection, face recognition, and GCP monitoring automation.",
+                        "Applied machine learning models to predict outages and enhanced system reliability in client projects."
+                    ]
+                },
+                {
+                    "title": "Intern",
+                    "company": "MoreYeahs Technologies",
+                    "duration": "June 2022 – Sept. 2022",
+                    "responsibilities": [
+                        "Engaged in hands-on experience with data science techniques and tools.",
+                        "Contributed to the development of projects involving log analysis, predictive maintenance, and resume building."
+                    ]
+                }
+            ],
+            "projects": [
+                {
+                    "title": "Bank Statement Analyser",
+                    "technologies_used": [
+                        "Python",
+                        "FastAPI",
+                        "Pandas",
+                        "GCP"
+                    ],
+                    "objective": "Develop a bank statement analyzer using OCR to extract tables from bank Pdf’s.",
+                    "contributions": [
+                        "Led as a Junior Resource in the development of the project.",
+                        "Utilized Pandas Data Frames for data manipulation and calculation of features as per client requirements."
+                    ]
+                },
+                {
+                    "title": "Security System",
+                    "technologies_used": [
+                        "OpenCV",
+                        "NLP",
+                        "YOLO",
+                        "Python",
+                        "Jetson Nano"
+                    ],
+                    "objective": "Develop a comprehensive security system using Jetson Nano.",
+                    "contributions": [
+                        "Collaborated with the team to develop the project.",
+                        "Integrated cameras with Jetson Nano for real-time human detection and tracking."
+                    ]
+                },
+                {
+                    "title": "Face Recognition System",
+                    "technologies_used": [
+                        "FastAPI",
+                        "MTCNN",
+                        "Python",
+                        "Numpy",
+                        "PyTorch",
+                        "Inception ResNet"
+                    ],
+                    "objective": "Design and implement a Face Recognition System using FastAPI for image capture.",
+                    "contributions": [
+                        "Individually designed and implemented the system."
+                    ]
+                },
+                {
+                    "title": "Resume Builder with AI Integration",
+                    "technologies_used": [
+                        "LLM",
+                        "SQL",
+                        "Python",
+                        "FastAPI"
+                    ],
+                    "objective": "Develop a Resume Builder project utilizing NLP techniques and advanced algorithms.",
+                    "contributions": [
+                        "Led the development of the project."
+                    ]
+                },
+                {
+                    "title": "AI Avatar and Chatbot Development",
+                    "technologies_used": [
+                        "NLP",
+                        "AI",
+                        "D-ID",
+                        "Google Bard",
+                        "MySQL"
+                    ],
+                    "objective": "Contribute to a client project focused on building an AI avatar and chatbot for website engagement.",
+                    "contributions": [
+                        "Utilized third-party tools such as D-ID and Google Bard to enhance the capabilities of the avatar and chatbot."
+                    ]
+                }
+            ],
+            "skills": [
+                "Python",
+                "Dataiku",
+                "Matplotlib",
+                "FastAPI",
+                "VS Code",
+                "PyTorch",
+                "Jupyter Notebooks",
+                "Pandas",
+                "NumPy",
+                "Matplotlib",
+                "Seaborn",
+                "CV2",
+                "Scikit-learn",
+                "SQLAlchemy",
+                "OpenCV",
+                "NLP",
+                "YOLO",
+                "GCP"
+            ],
+            "certifications": [
+                {
+                    "name": "Python for Data Science, AI \u0026 Development",
+                    "achieved_grade": 77.83
+                },
+                {
+                    "name": "Developing Data Models with LookML",
+                    "achieved_grade": 89.66
+                },
+                {
+                    "name": "Analyzing and Visualizing Data in Looker",
+                    "achieved_grade": 86.66
+                },
+                {
+                    "name": "Exploring Data Transformation with Google Cloud",
+                    "achieved_grade": 88.83
+                }
+            ],
+            "candidate_attributes_inferred": {
+                "academic_performance": "CGPA: 8/10",
+                "initiative_and_self_learning": "Developed several projects and contributed to others during their tenure at MoreYeahs Technologies.",
+                "teamwork_or_leadership_traits": "Collaborated on multiple projects with team members, demonstrated leadership in developing the Resume Builder project.",
+                "communication_clarity": "Effectively communicated findings and solutions to clients, contributing to improved system performance.",
+                "standout_traits": "Strong analytical and problem-solving skills, demonstrated through various projects such as GCP Monitoring Automation and Data Engineering and Log Analysis using AIMLOPS."
+            }
+        }
+    },
+    "done_reason": "stop",
+    "done": true,
+    "total_duration": 235868948000,
+    "load_duration": 4130100,
+    "prompt_eval_count": 1570,
+    "prompt_eval_duration": 57133925200,
+    "eval_count": 1357,
+    "eval_duration": 178725282100
+}

@@ -1,0 +1,100 @@
+{
+    "model": "mistral",
+    "created_at": "2025-05-07T07:55:44.5208884Z",
+    "message": {
+        "role": "assistant",
+        "content": {
+            "summary": "A software developer with over 1+ years of experience in the industry, currently working at Sparkfun Software Solution Bengaluru. Strong skills in software development life cycle, architecting scalable platforms, Object oriented programming, design and agile, scrum methodologies. Proficient in Python, Django, HTML, CSS, Bootstrap, JavaScript, and Git. Effective communicator with excellent interpersonal and problem-solving skills.",
+            "experience": [
+                {
+                    "title": "Software Developer",
+                    "company": "Sparkfun Software Solution Bengaluru",
+                    "duration": "June 2023 - Present",
+                    "responsibilities": [
+                        "Designed and implemented user-friendly e-commerce websites.",
+                        "Developed front-end and back-end functionalities for seamless customer experience.",
+                        "Ensured website responsiveness and optimized performance.",
+                        "Implemented secure payment gateways for seamless and secure online transactions.",
+                        "Utilized version control systems (e.g., Git) to manage and track changes in the codebase.",
+                        "Troubleshoot coding issues and bugs."
+                    ]
+                }
+            ],
+            "projects": [
+                {
+                    "title": "E-Commerce Management",
+                    "technologies_used": [
+                        "Python",
+                        "Django"
+                    ],
+                    "objective": "Develop a comprehensive online platform for managing e-commerce operations.",
+                    "contributions": [
+                        "Designed and implemented user-friendly e-commerce websites.",
+                        "Developed front-end and back-end functionalities for seamless customer experience.",
+                        "Ensured website responsiveness and optimized performance.",
+                        "Implemented secure payment gateways for seamless and secure online transactions.",
+                        "Utilized version control systems (e.g., Git) to manage and track changes in the codebase.",
+                        "Troubleshoot coding issues and bugs."
+                    ]
+                },
+                {
+                    "title": "Zoomin Photobook Software",
+                    "technologies_used": [
+                        "Python"
+                    ],
+                    "objective": "Develop an online photo album software where users can directly upload, design, and print custom photo albums.",
+                    "contributions": [
+                        "Developed the user interface of the software using Python frameworks like Django.",
+                        "Implemented the backend logic and functionality of the software.",
+                        "Implemented features related to image processing.",
+                        "Designed and implemented the database schema, handled database operations, and ensured data integrity."
+                    ]
+                }
+            ],
+            "skills": [
+                "Software development life cycle",
+                "Architecting scalable platforms",
+                "Object oriented programming",
+                "Design and agile, scrum methodologies",
+                "Python",
+                "Django",
+                "HTML",
+                "CSS",
+                "Bootstrap",
+                "JavaScript",
+                "Git",
+                "JIRA",
+                "Postman",
+                "MySQL",
+                "SQL",
+                "Team Work",
+                "Administration"
+            ],
+            "certifications": [
+                {
+                    "title": "Python full stack development",
+                    "issuer": "Perfect IT Solution"
+                }
+            ],
+            "candidate_attributes_inferred": {
+                "academic_performance": null,
+                "initiative_and_self_learning": true,
+                "teamwork_or_leadership_traits": true,
+                "communication_clarity": true,
+                "standout_traits": [
+                    "Positive attitude",
+                    "Effective Presentation",
+                    "Management"
+                ]
+            }
+        }
+    },
+    "done_reason": "stop",
+    "done": true,
+    "total_duration": 151546994900,
+    "load_duration": 4103800,
+    "prompt_eval_count": 1239,
+    "prompt_eval_duration": 42701266600,
+    "eval_count": 850,
+    "eval_duration": 108836999600
+}

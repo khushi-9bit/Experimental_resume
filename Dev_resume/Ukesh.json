@@ -1,0 +1,67 @@
+{
+    "model": "mistral",
+    "created_at": "2025-05-07T08:15:26.05Z",
+    "message": {
+        "role": "assistant",
+        "content": {
+            "summary": "Python Developer with experience in creating, testing, and managing Python code for back-end functions. Specialized in OOP concepts, Flet package GUI development, and passionate about creating efficient and reliable applications. Winner of PDAC - 24 Best Coding Engineer 2023 competition.",
+            "experience": [
+                {
+                    "title": "Python Developer",
+                    "company": "",
+                    "duration": "Fresher",
+                    "responsibilities": "Creating, testing, and managing Python code for back-end functions. Good knowledge in OOP concepts and Flet package GUI development."
+                }
+            ],
+            "projects": [
+                {
+                    "title": "Random Password Generator Using Python",
+                    "technologies_used": [
+                        "Tkinter",
+                        "Pyperclip",
+                        "Random",
+                        "PIL"
+                    ],
+                    "objectives": "Password Generation",
+                    "contributions": "Graphical User Interface (GUI) development, image handling and resizing."
+                },
+                {
+                    "title": "Data Science - Data Cleaning, Analysis And Visualization Of Nested CSV File Dataset With Merging Using Python",
+                    "technologies_used": [
+                        "Numpy",
+                        "Pandas",
+                        "Seaborn",
+                        "Matplotlib",
+                        "Scikit-Learn"
+                    ],
+                    "objectives": "Data Science",
+                    "contributions": "Nested data handling, merging and integration, visualization with Matplotlib and Seaborn."
+                }
+            ],
+            "skills": [
+                "Python Programming",
+                "R Programming",
+                "Data Science",
+                "Data Analytics (Tableau, Power BI)",
+                "OOP Concepts",
+                "Flet Package GUI Development"
+            ],
+            "certifications": [],
+            "candidate_attributes_inferred": {
+                "academic_performance": "B.E - Mechanical Engineering from Ponnayiah Ramajayam Institute of Science \u0026 Technology(PRIST), Thajavur",
+                "initiative_and_self_learning": "Developed Random Password Generator Using Python and participated in coding competitions.",
+                "teamwork_or_leadership_traits": "Winner of PDAC - 24 Best Coding Engineer 2023 competition.",
+                "communication_clarity": "Excellent verbal and written communication abilities.",
+                "standout_traits": "Strong problem-solving and analytical skills, self-motivated, and eager to learn new technologies."
+            }
+        }
+    },
+    "done_reason": "stop",
+    "done": true,
+    "total_duration": 107845776900,
+    "load_duration": 1797878500,
+    "prompt_eval_count": 896,
+    "prompt_eval_duration": 32295713500,
+    "eval_count": 604,
+    "eval_duration": 73748548500
+}

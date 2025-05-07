@@ -1,0 +1,77 @@
+{
+    "model": "mistral",
+    "created_at": "2025-05-07T07:48:33.6057891Z",
+    "message": {
+        "role": "assistant",
+        "content": {
+            "summary": "A software developer with proficiency in backend development, interface designing, distributed computing, and mobile-based application development. Native or bilingual proficiency in English, German, Hindi, Marathi, and Sanskrit. Dedicated to achieving excellence through hard work and creativity, demonstrated by academic performance and personal projects.",
+            "experience": [
+                {
+                    "title": "Software Developer",
+                    "company": "AmberSpark Technology LLP",
+                    "duration": "2023-Present",
+                    "responsibilities": "Designing and implementing software solutions, database management with SQL, automating tasks through PowerShell, data visualization using Power BI, integrating systems through APIs, coordinating meetings, ensuring requirements are met, and executing seamless software deployments."
+                },
+                {
+                    "title": "Full Stack Web Developer",
+                    "company": "Fitmat pvt ltd",
+                    "duration": "2022-2022",
+                    "responsibilities": "Designing and implementing both front-end interfaces and back-end systems for web applications using HTML, CSS, Bootstrap, React.js, TypeScript, Flutter, Java, C, C++, Python, SQL, JavaScript, Dart, PHP."
+                },
+                {
+                    "title": "Web Developer",
+                    "company": "IT Networkz",
+                    "duration": "2020-2020",
+                    "responsibilities": "Contributed to web development for the organization."
+                }
+            ],
+            "projects": [
+                {
+                    "title": "Web Application | Sign Language Translator",
+                    "technologies_used": "React.js, AWS Cloud, .NET, PHP",
+                    "objectives": "Develop a sign language translator to help speech-impaired people communicate worldwide.",
+                    "contributions": "Developed code for the project."
+                },
+                {
+                    "title": "ATM Fraud Detection System",
+                    "technologies_used": "Java, C++, Python, SQL",
+                    "objectives": "Develop a system to detect ATM frauds in real-time.",
+                    "contributions": "Developed code for the project."
+                },
+                {
+                    "title": "Metaracing(Gaming Website)",
+                    "technologies_used": "React.js",
+                    "objectives": "Develop a vibrant gaming website.",
+                    "contributions": "Developed code for the project."
+                }
+            ],
+            "skills": [
+                "Backend Development",
+                "Interface Designing",
+                "Distributed Computing",
+                "Mobile-Based Application Development",
+                "Coding \u0026 Troubleshooting",
+                "Team Management",
+                "Power BI",
+                "Trecking",
+                "Surfing \u0026 Cycling"
+            ],
+            "certifications": [],
+            "candidate_attributes_inferred": {
+                "academic_performance": "82.17% in BE (computer science \u0026 engineering) and 62.92% in HSC",
+                "initiative_and_self_learning": "Contributed to NGO Relief India Trust, NSS(National Service Scheme), and personal projects",
+                "teamwork_or_leadership_traits": "Collaborated with teams at AmberSpark Technology LLP, Fitmat pvt ltd, IT Networkz, and during personal projects",
+                "communication_clarity": "Effective communication demonstrated through professional roles and project descriptions",
+                "standout_traits": "Dedicated to achieving excellence, demonstrated by a diverse array of skills and interests"
+            }
+        }
+    },
+    "done_reason": "stop",
+    "done": true,
+    "total_duration": 148346280000,
+    "load_duration": 4564400,
+    "prompt_eval_count": 1234,
+    "prompt_eval_duration": 37480239900,
+    "eval_count": 870,
+    "eval_duration": 110857416900
+}

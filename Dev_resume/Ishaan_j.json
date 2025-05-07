@@ -1,0 +1,102 @@
+{
+    "model": "mistral",
+    "created_at": "2025-05-07T07:34:17.5912979Z",
+    "message": {
+        "role": "assistant",
+        "content": {
+            "summary": "Full Stack Engineer with expertise in C++, DSA (Data Structures and Algorithms), Web and Mobile Application Development, MERN Stack, Flutter. Holds certifications in Azure and Cyber Security. Demonstrated strong analytical skills, leadership abilities, self-learning initiatives, and clear communication.",
+            "experience": [
+                {
+                    "title": "Full Stack Engineer",
+                    "company": "Trinaabh Infotech Pvt. Ltd.",
+                    "duration": "January'23 - January’24",
+                    "responsibilities": [
+                        "Developed and launched 50+ Web and Android apps for portfolios, businesses, and education.",
+                        "Led the redesign of Newsadda.in, the company's news platform.",
+                        "Supervised key AWS services such as EC2, Beanstalk, S3, and RDS to facilitate Web hosting."
+                    ]
+                },
+                {
+                    "title": "Technology Consultant",
+                    "company": "Deloitte",
+                    "duration": "November’21 - April’22",
+                    "responsibilities": [
+                        "Conducted client discovery and designed business cases.",
+                        "Defined project approaches, conducted market scans, and presented solutions to address client challenges."
+                    ]
+                }
+            ],
+            "projects": [
+                {
+                    "name": "WebSurfer",
+                    "technologies_used": [
+                        "C++",
+                        "Qt Creator",
+                        "MSVC",
+                        "CMake"
+                    ],
+                    "objectives": "Develop a web browser named WebSurfer under MeitY’s Atmnirbhar Bharat Hackathon."
+                },
+                {
+                    "name": "Recruitment Management System",
+                    "technologies_used": [
+                        "MERN Stack"
+                    ],
+                    "objectives": "Built a Recruitment Management System allowing recruiters to create candidate profiles."
+                }
+            ],
+            "skills": [
+                "C++",
+                "Data Structures and Algorithms (DSA)",
+                "Web and Mobile Application Development",
+                "MERN Stack",
+                "Flutter",
+                "Python",
+                "Java",
+                "Go",
+                "GitLab",
+                "CI/CD",
+                "Linux",
+                "AWS",
+                "Azure",
+                "Docker",
+                "Kubernetes",
+                "SQL",
+                "NoSQL",
+                "AI",
+                "System Design"
+            ],
+            "certifications": [
+                {
+                    "name": "Microsoft Certified Azure Administrator Associate (AZ-104)",
+                    "year": "July’23"
+                },
+                {
+                    "name": "Microsoft Certified Security Compliance Fundamentals (SC-900)",
+                    "year": "January’22"
+                },
+                {
+                    "name": "Microsoft Certified Azure Fundamentals (AZ-900)",
+                    "year": "October’21"
+                },
+                {
+                    "name": "IBM Cyber Security Analyst (Coursera)",
+                    "year": "June’21"
+                },
+                {
+                    "name": "ICSI Certified Network Security Specialist (CNSS)",
+                    "year": "May’20"
+                }
+            ],
+            "candidate_attributes_inferred": {
+                "academic_performance": "8.5 CGPA in MCA,7.0 CGPA in BCA","initiative_and_self_learning": "Freelance Web and Mobile Application Developer, Social Media Manager, Graphic Designer.","teamwork_or_leadership_traits": "Led the redesign of Newsadda.in, designed business cases at Deloitte.","communication_clarity": "Conducted client discovery and presented solutions to address client challenges.","standout_traits": "Generated 500,000+ content views on Quora."}}
+            },
+            "done_reason": "stop",
+            "done": true,
+            "total_duration": 251148762900,
+            "load_duration": 4090900,
+            "prompt_eval_count": 2462,
+            "prompt_eval_duration": 120805883000,
+            "eval_count": 950,
+            "eval_duration": 130331074400
+        }

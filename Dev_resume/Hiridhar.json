@@ -1,0 +1,142 @@
+{
+    "model": "mistral",
+    "created_at": "2025-05-07T07:30:01.9412998Z",
+    "message": {
+        "role": "assistant",
+        "content": {
+            "summary": "Data Scientist with experience at Rubixe, specializing in streamlining data collection and reporting procedures, improving productivity, and conducting market research. Possesses expertise in various programming languages, frameworks, tools, and platforms. Demonstrates strong soft skills such as rapport building, stakeholder management, people management, and excellent communication.",
+            "experience": [
+                {
+                    "title": "Data Scientist Consultant",
+                    "company": "Rubixe",
+                    "duration": "December 23 - Current",
+                    "responsibilities": [
+                        "Streamlined data collection and reporting procedures, reducing processing time by 20%.",
+                        "Implemented process improvements and automation solutions, resulting in a 15% increase in productivity.",
+                        "Collaborated with multiple cross-functional teams to gather requirements, define project scopes, and ensure alignment with business objectives.",
+                        "Produced 15+ comprehensive reports and presentations summarizing findings and recommendations.",
+                        "Conducted in-depth market research and analysis, resulting in the identification of key trends and insights."
+                    ]
+                }
+            ],
+            "projects": [
+                {
+                    "title": "Instagram Video to Text Convertor",
+                    "technologies_used": [
+                        "Python",
+                        "Jupyter Notebook",
+                        "Instaloader",
+                        "moviepy",
+                        "Openai Whisper"
+                    ],
+                    "objective": "Convert Instagram influencer videos into text for easier analysis.",
+                    "contributions": [
+                        "Downloaded the video using Instaloader on Jupyter Notebook",
+                        "Converted the video to audio using moviepy",
+                        "Used Openai Whisper to convert audio to text and saved it into a CSV file"
+                    ]
+                },
+                {
+                    "title": "Texas Salary Prediction",
+                    "technologies_used": [
+                        "Python"
+                    ],
+                    "objective": "Predict Texas salaries based on various factors.",
+                    "contributions": [
+                        "Developed and fine-tuned a regression-based machine learning model",
+                        "Minimized false positives through rigorous feature engineering and hyperparameter tuning",
+                        "Implemented under-sampling and ensemble techniques to address class imbalance"
+                    ]
+                },
+                {
+                    "title": "Heart Disease Prediction",
+                    "technologies_used": [
+                        "Python"
+                    ],
+                    "objective": "Predict heart disease based on various factors.",
+                    "contributions": [
+                        "Orchestrated the development of a Logit model to predict heart disease",
+                        "Spearheaded the implementation of HIPAA-compliant data encryption protocols",
+                        "Enhanced healthcare outcomes by accurately predicting heart disease"
+                    ]
+                },
+                {
+                    "title": "License Plate Recognition",
+                    "technologies_used": [
+                        "Python"
+                    ],
+                    "objective": "Automate vehicle identification using License Plate Recognition (LPR) technology.",
+                    "contributions": [
+                        "Leveraged optical character recognition (OCR) to automate license plate reading",
+                        "Ensured operational accuracy, addressed environmental challenges, and ensured compliance with privacy and legal standards"
+                    ]
+                }
+            ],
+            "skills": [
+                "Python",
+                "SQL",
+                "Pandas",
+                "Numpy",
+                "Scikit-Learn",
+                "Matplotlib",
+                "NLTK",
+                "Streamlit",
+                "Power BI",
+                "Excel",
+                "PowerPoint",
+                "Tableau",
+                "MySQL",
+                "PyCharm",
+                "Jupyter Notebook",
+                "Visual Studio Code",
+                "Google Colab",
+                "Rapport Building",
+                "Strong Stakeholder Management",
+                "People Management",
+                "Excellent communication"
+            ],
+            "certifications": [
+                {
+                    "name": "Data Science Course",
+                    "issuer": "Tutedude",
+                    "date_issued": "March 2024"
+                },
+                {
+                    "name": "Certified Data Scientist",
+                    "issuer": "Datamites",
+                    "date_issued": "April 2024"
+                },
+                {
+                    "name": "Natural Language Processing",
+                    "issuer": "Google Cloud",
+                    "date_issued": "May 2024"
+                },
+                {
+                    "name": "Certified Data Scientist",
+                    "issuer": "NASSCOM",
+                    "date_issued": "July 2024"
+                },
+                {
+                    "name": "Generative AI with LLMs",
+                    "issuer": "Deeplearning.AI",
+                    "date_issued": "July 2024"
+                }
+            ],
+            "candidate_attributes_inferred": {
+                "academic_performance": "7.46 GPA in Bachelor of Engineering (Computer Science and Engineering)",
+                "initiative_and_self_learning": "Developed various personal projects showcasing learning and initiative",
+                "teamwork_or_leadership_traits": "Collaborated with multiple cross-functional teams, fostering effective teamwork and project success",
+                "communication_clarity": "Produced 15+ comprehensive reports and presentations summarizing findings and recommendations",
+                "standout_traits": "Impressed accuracy rates in predictive models and decreased data breach incidents by 40%"
+            }
+        }
+    },
+    "done_reason": "stop",
+    "done": true,
+    "total_duration": 201734272700,
+    "load_duration": 4090900,
+    "prompt_eval_count": 1180,
+    "prompt_eval_duration": 32272657100,
+    "eval_count": 1328,
+    "eval_duration": 169453465400
+}
