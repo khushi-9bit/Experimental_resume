@@ -1,0 +1,61 @@
+{
+    "model": "mistral",
+    "created_at": "2025-05-07T06:42:53.7615451Z",
+    "message": {
+        "role": "assistant",
+        "content": {
+            "summary": "A driven, passionate, and adaptable professional with a Bachelor's Degree in Business Administration. Demonstrates strong organizational skills, exceptional communication abilities, and the ability to work independently or as part of a team. Has experience in project management, digital marketing, and human resources. Shows initiative in self-learning and staying up-to-date with industry trends.",
+            "experience": [
+                {
+                    "title": "Event Manager",
+                    "company": "PharmaWiz",
+                    "duration": "March 2023 - Present",
+                    "responsibilities": "Handling social media accounts, teaching soft skills to pharma students},"{
+                        "title": "HR Executive",
+                        "company": "Peaks Academy",
+                        "duration": "January 2022 - June 2022",
+                        "responsibilities": "Managed customer connections, trained coworkers on LinkedIn usage},"{
+                            "title": "HR Executive",
+                            "company": "Tutedude",
+                            "duration": "April 2021 - May 2021",
+                            "responsibilities": "Communicated with individuals via LinkedIn"
+                        }
+                    ],
+                    "projects": [
+                        {
+                            "title": "Risk and Return analysis of Companies under NSE in FMCG sector",
+                            "technologies_used": "Secondary data, Google (for calculations)",
+                            "objectives": "To provide suggestions to investors about the best-performing companies in the Indian FMCG market.",
+                            "contributions": "Calculated correlation beta and return of top 10 FMCG companies."
+                        }
+                    ],
+                    "skills": [
+                        "Project Management",
+                        "Digital Marketing",
+                        "Financial Markets",
+                        "Microsoft Excel",
+                        "HR",
+                        "Business Development"
+                    ],
+                    "certifications": [
+                        "Google Diploma in Digital Marketing",
+                        "Master of Project Academy - Microsoft Excel Training"
+                    ],
+                    "candidate_attributes_inferred": {
+                        "academic_performance": "Not specified in the context.",
+                        "initiative_and_self_learning": "Demonstrates passion for staying up-to-date with industry trends and seeking new learning opportunities.",
+                        "teamwork_or_leadership_traits": "Has experience in managing teams, overcoming public speaking fears, and leading events.",
+                        "communication_clarity": "Effectively communicates with customers, coworkers, and investors.",
+                        "standout_traits": "Adaptable, passionate, and driven."
+                    }
+                }
+            },
+            "done_reason": "stop",
+            "done": true,
+            "total_duration": 99493813800,
+            "load_duration": 4080100,
+            "prompt_eval_count": 865,
+            "prompt_eval_duration": 23426291200,
+            "eval_count": 624,
+            "eval_duration": 76060379400
+        }

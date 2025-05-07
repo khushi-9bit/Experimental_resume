@@ -1,0 +1,83 @@
+{
+    "model": "mistral",
+    "created_at": "2025-05-07T06:56:03.902689Z",
+    "message": {
+        "role": "assistant",
+        "content": {
+            "summary": "A Computer Science fresher with a Bachelor's Degree in Computer Engineering (8.7 CGPA) and strong foundation in Java, DBMS, Object Oriented Programming, MySQL, HTML, and JavaScript. Seeking a challenging role within an organization that values innovation, encourages continuous learning, and offers opportunities for professional growth.",
+            "experience": [
+                {
+                    "title": "Web Development Intern",
+                    "company": "Octanet",
+                    "duration": "1st July 2023 - 1st August 2023",
+                    "responsibilities": "Contributed to the development of web applications, expanded technical skill set, and enhanced problem-solving abilities."
+                }
+            ],
+            "projects": [
+                {
+                    "title": "Tic-Tac-Toe",
+                    "technologies_used": [
+                        "HTML",
+                        "CSS",
+                        "JavaScript"
+                    ],
+                    "objective": "Develop an interactive and engaging Tic Tac Toe game",
+                    "contributions": "Implemented a responsive user interface with modern design principles to enhance user experience"
+                },
+                {
+                    "title": "Amazon Clone",
+                    "technologies_used": [
+                        "HTML",
+                        "CSS"
+                    ],
+                    "objective": "Develop a realistic Amazon clone",
+                    "contributions": "Accurately replicated the Amazon UI, including responsive design and attention to detail"
+                }
+            ],
+            "skills": [
+                "Java",
+                "Object Oriented Programming",
+                "DBMS",
+                "MySQL",
+                "HTML",
+                "CSS",
+                "JavaScript",
+                "C Programming Language"
+            ],
+            "certifications": [
+                {
+                    "name": "Goldman Sachs Software Engineering Virtual Experience Program",
+                    "provider": "Forage",
+                    "date": "March 2023"
+                },
+                {
+                    "name": "Certification of JAVA",
+                    "provider": "PREMA COMPUTERS"
+                },
+                {
+                    "name": "Certification of Programming in C",
+                    "provider": "AIM POINT INFORMATICS"
+                },
+                {
+                    "name": "Certification of Software Development",
+                    "provider": "Great Learnings"
+                }
+            ],
+            "candidate_attributes_inferred": {
+                "academic_performance": "8.7 CGPA",
+                "initiative_and_self_learning": "Completed a dynamic 1-month web development internship, pursued individual projects and independent coursework",
+                "teamwork_or_leadership_traits": "Collaborated with a skilled team during the internship",
+                "communication_clarity": "Effectively communicated project objectives and contributions",
+                "standout_traits": "Quick learner, adaptive nature, inquisitive"
+            }
+        }
+    },
+    "done_reason": "stop",
+    "done": true,
+    "total_duration": 113214728800,
+    "load_duration": 1798010600,
+    "prompt_eval_count": 910,
+    "prompt_eval_duration": 28511523700,
+    "eval_count": 681,
+    "eval_duration": 82897938500
+}

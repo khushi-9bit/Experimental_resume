@@ -1,0 +1,80 @@
+{
+    "model": "mistral",
+    "created_at": "2025-05-07T07:06:38.2763788Z",
+    "message": {
+        "role": "assistant",
+        "content": {
+            "summary": "Energetic and optimistic customer service representative with 1 year of professional experience assisting customers in solving complex issues.",
+            "objective": "To seek challenging assignments and responsibilities, with an opportunity for growth and career advancement as achievements.",
+            "education_qualification": [
+                {
+                    "degree": "MBA (HR+FINANCE)",
+                    "university": "RKDF UNIVERSITY BHOPAL",
+                    "marks_cgpa": "65.00%"
+                },
+                {
+                    "degree": "Graduation (B.com)",
+                    "university": "Mahatma Gandhi Chitrakoot gramodaya Vishwa Vidyalaya Satna",
+                    "marks_cgpa": "73.93 %"
+                },
+                {
+                    "degree": "Higher Secondary",
+                    "school": "St.Pauls convent school Banmore Madhya Pradesh Board of Secondary Education Bhopal",
+                    "marks": "81.00 %"
+                },
+                {
+                    "degree": "High School",
+                    "school": "St. John Vianney school Gwalior Central Board of Secondary Education Delhi",
+                    "marks": "6.8"
+                }
+            ],
+            "experience": [
+                {
+                    "title": "Customer Service Associate",
+                    "company": "Teleperformance (Indore)",
+                    "duration": "July 2021 to December 2022",
+                    "responsibilities": [
+                        "Providing Customer Service on calls and chat for customers from USA and CANADA.",
+                        "Helping customers with queries regarding products and orders.",
+                        "Assisting customers with dispatch, store location, and slot availability queries."
+                    ]
+                }
+            ],
+            "skills": [
+                "Customer Service",
+                "Communication Skills",
+                "Problem Solving",
+                "Ambitious",
+                "Hardworking",
+                "Energetic",
+                "Well-disciplined",
+                "Positive Thinking",
+                "Self-motivated",
+                "Flexible",
+                "Good Communication Skills",
+                "Soft Spoken",
+                "Excellent Oral and Written Skills"
+            ],
+            "certifications": [],
+            "candidate_attributes_inferred": {
+                "academic_performance": "Average to Good performance in education with a CGPA of 65.00% in MBA, 73.93 % in Graduation.",
+                "initiative_and_self_learning": "Demonstrated initiative by seeking challenging assignments and opportunities for growth.",
+                "teamwork_or_leadership_traits": "Worked as a customer service representative as part of a team, assisting customers with their queries.",
+                "communication_clarity": "Good communication skills, both oral and written.",
+                "standout_traits": "Workaholic"
+            },
+            "languages_known": [
+                "Hindi",
+                "English"
+            ]
+        }
+    },
+    "done_reason": "stop",
+    "done": true,
+    "total_duration": 119321731300,
+    "load_duration": 1799789500,
+    "prompt_eval_count": 794,
+    "prompt_eval_duration": 29822371700,
+    "eval_count": 721,
+    "eval_duration": 87694344000
+}

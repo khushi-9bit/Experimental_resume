@@ -1,0 +1,126 @@
+{
+    "model": "mistral",
+    "created_at": "2025-05-07T06:23:35.2288554Z",
+    "message": {
+        "role": "assistant",
+        "content": {
+            "summary": "Working with Infosys Ltd as a DevOps Engineer in Canada, having experience in various Industry domains including financial, retail, telecommunication, insurance \u0026 banking sectors. Strong work ethics and ability to stay organized within fast-paced organizations.",
+            "experience": [
+                {
+                    "title": "DevOps Engineer",
+                    "company": "Infosys Ltd, Canada",
+                    "duration": "June 2023 till Present",
+                    "roles_and_responsibilities": [
+                        "Implementing BDP (Big Data Platform) Continuous Integration and Continuous Delivery with GitLab \u0026 Infrastructure creation using Terraform \u0026 CFT.",
+                        "Involved in Pipeline automation, EMR Cluster creation, client communication, debugging issues."
+                    ]
+                },
+                {
+                    "title": "DevOps Architect",
+                    "company": "Infosys Ltd, Canada",
+                    "duration": "Dec 2023 till June 2023",
+                    "roles_and_responsibilities": [
+                        "Working on implementing Continuous Integration and Continuous Delivery with Azure DevOps \u0026 migration using EY Fabric and Ansible Tower.",
+                        "Involved in Pipeline automation, client communication, requirement analysis, debugging, and documentation."
+                    ]
+                },
+                {
+                    "title": "DevOps Consultant",
+                    "company": "US based Telecommunication company, Toronto",
+                    "duration": "Jun 2021 - Dec 2023",
+                    "roles_and_responsibilities": [
+                        "Implementing Continuous Integration and Continuous Delivery with various DevOps tools stack like GitLab, Helm, AWS \u0026 Azure Cloud."
+                    ]
+                },
+                {
+                    "title": "Senior Associate Consultant",
+                    "company": "SABB – Saudi British Bank",
+                    "duration": "Jun 2020 to Nov 2020",
+                    "roles_and_responsibilities": [
+                        "Handling DevOps tools stack like GitHub, Cloud bees Jenkins, Nexus, G3 (SABB tool) and Ansible Tower for Configuration Management."
+                    ]
+                },
+                {
+                    "title": "DevOps Consultant",
+                    "company": "Zurich Insurance, Tokyo",
+                    "duration": "October 2019 to June 2020",
+                    "roles_and_responsibilities": [
+                        "Designing on-Demand Insurance Application and Implemented DevOps methodology using AWS cloud services like Lambda, SNS, SQS and ECS fargate container instances."
+                    ]
+                },
+                {
+                    "title": "DevOps Engineer",
+                    "company": "Conduent, Hyderabad",
+                    "duration": "Feb 2019 to September 2019",
+                    "roles_and_responsibilities": [
+                        "Worked as DevOps Engineer to Create and Develop Azure DevOps Pipeline for Different Environments and Provide knowledge and Training on Kubernetes to Our Team member and colleague"
+                    ]
+                },
+                {
+                    "title": "Senior Software Engineer",
+                    "company": "Extreme Networks Pvt Ltd, Bangalore",
+                    "duration": "Jun 2014 to March 2019",
+                    "roles_and_responsibilities": [
+                        "Worked on Cloud Based Location Analytics Solution project, contributed with Deployment and Automation role."
+                    ]
+                }
+            ],
+            "projects": [],
+            "skills": [
+                "IT Delivery Methods: Agile, Waterfall",
+                "Security Automation Tools: SonarQube, Veracode, Snyk, Fortify, Git Guardian",
+                "Scripting/Programming Languages: Shell, Python, PowerShell",
+                "Version Control Tools: Git",
+                "Infra. as a Code, IaC: CFT, ARM template \u0026 Terraform",
+                "Continuous Integration Tools: Azure DevOps, GitLab, Jenkins AWS CodePipeline",
+                "Continuous Deployment Tools: Ansible \u0026 Ansible Tower",
+                "Containers: Kubernetes, Docker, Helm",
+                "Cloud Services: Amazon Web Services (AWS), AZURE Cloud",
+                "Databases: MySQL, NoSQL, Azure Cosmos DB, MongoDB",
+                "Project Management Tools: JIRA, MS Project, Confluence",
+                "API \u0026 Monitoring Tools: Postman, Prometheus, Grafana, ELK"
+            ],
+            "certifications": [
+                {
+                    "name": "Azure 500: Azure Security Engineer Associate",
+                    "issuer": "Microsoft"
+                },
+                {
+                    "name": "Microsoft SC 100: Microsoft Cybersecurity Architect",
+                    "issuer": "Microsoft"
+                },
+                {
+                    "name": "Azure 900: Azure Fundamentals",
+                    "issuer": "Microsoft"
+                },
+                {
+                    "name": "Azure 300: Microsoft Azure Architect",
+                    "issuer": "Microsoft"
+                },
+                {
+                    "name": "AWS Certified Solutions Architect - Associate",
+                    "issuer": "Amazon Web Services"
+                },
+                {
+                    "name": "HashiCorp Certified: Terraform Associate (003)",
+                    "issuer": "HashiCorp"
+                }
+            ],
+            "candidate_attributes_inferred": {
+                "academic_performance": "Graduated with a BE in Computer Science \u0026 Engineering from The National Institute of Engineering, Mysore, India",
+                "initiative_and_self_learning": "Self-learning AI/ML for DevOps, a journey from manual processes with infrequent deployments and slow innovation cycles to rapid iteration cycles with CI/CD, automated alarming for monitoring production.",
+                "teamwork_or_leadership_traits": "Managed \u0026 Leading DevOps teams across several clients",
+                "communication_clarity": "Involved in client communication, requirement analysis, debugging, code review and documentation.",
+                "standout_traits": "Strong work ethics, ability to stay organized within fast-paced organizations."
+            }
+        }
+    },
+    "done_reason": "stop",
+    "done": true,
+    "total_duration": 287065422300,
+    "load_duration": 6489538300,
+    "prompt_eval_count": 2231,
+    "prompt_eval_duration": 82339934500,
+    "eval_count": 1485,
+    "eval_duration": 198228376600
+}

@@ -1,0 +1,49 @@
+{
+    "model": "mistral",
+    "created_at": "2025-05-07T06:09:27.2263151Z",
+    "message": {
+        "role": "assistant",
+        "content": {
+            "summary": "A candidate seeking a role in a company that encourages professional growth, with a focus on utilizing knowledge and skills. Possesses good presentation skills, adaptability, creativity, leadership abilities, and proficiency in Python, SQL, MS-Excel, Anaplan, Core Java, and more. Holds certifications from The Functional Programming Language (Python), Finance for Non-Financial Professionals, SQL-Basic and intermediate, MS-EXCEL-Basic and Intermediate, Anaplan Level 1 Model Building, Anaplan Level 2 Model Building, TCR innovation, and Walkover University. Graduated with a B.Tech in CSE from Medi-caps University Indore (2019-2023) and completed 12th CBSE from Shri Agrasen Vidyalaya Indore with 58% (2018-2019) and 10th CBSE from Allegiance Academy KUKSHI with an 8.2 CGPA (2016-2017). Attended a 3-month course in mathematics from CUEMATH and served as an HR Intern at MyDigitalShelf for 3 months.",
+            "experience": [
+                {
+                    "title": "HR Intern",
+                    "company": "MyDigitalShelf",
+                    "duration": "3 Months",
+                    "responsibilities": "Leveraged good presentation skills and adaptability to serve as an HR intern. Contributed to the organization through various unspecified responsibilities."
+                }
+            ],
+            "projects": [],
+            "skills": [
+                "Python",
+                "The Functional Programming Language",
+                "Finance for Non-Financial Professionals",
+                "SQL",
+                "MS-EXCEL",
+                "Anaplan",
+                "Core Java",
+                "Leadership",
+                "Creativity"
+            ],
+            "certifications": [
+                "The Functional Programming Language (Python)",
+                "Finance for Non-Financial Professionals",
+                "SQL-Basic and intermediate",
+                "MS-EXCEL-Basic and Intermediate",
+                "Anaplan Level 1 Model Building",
+                "Anaplan Level 2 Model Building",
+                "TCR innovation",
+                "Walkover University"
+            ],
+            "candidate_attributes_inferred": {
+                "academic_performance": "Graduated with a B.Tech in CSE from Medi-caps University Indore (58% in 12th CBSE,8.2 CGPA in 10th CBSE)","initiative_and_self_learning": "Completed various certifications and short courses","teamwork_or_leadership_traits": "Served as an HR intern at MyDigitalShelf, proficient in leadership and creativity skills","communication_clarity": "Good presentation skills mentioned","standout_traits": "Adaptive nature and diverse skill set"}}
+            },
+            "done_reason": "stop",
+            "done": true,
+            "total_duration": 107287343000,
+            "load_duration": 1800466200,
+            "prompt_eval_count": 604,
+            "prompt_eval_duration": 21580811400,
+            "eval_count": 709,
+            "eval_duration": 83899273000
+        }

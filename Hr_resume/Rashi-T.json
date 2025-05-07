@@ -1,0 +1,85 @@
+{
+    "model": "mistral",
+    "created_at": "2025-05-07T06:41:03.5541686Z",
+    "message": {
+        "role": "assistant",
+        "content": {
+            "summary": "A motivated Human Resources graduate with strong organizational skills, interpersonal abilities, and a passion for fostering positive work environments. Proficient in recruitment processes, employee onboarding, and maintaining HR records.",
+            "experience": {
+                "title": "HR Recruiter",
+                "company": "FASTTRACK INDIA",
+                "duration": "Feb- June 2023",
+                "responsibilities": [
+                    "Partnered with hiring managers to determine staffing needs.",
+                    "Screened resumes.",
+                    "Sourced candidates using various job portals.",
+                    "Conducted employee onboarding and orientation sessions.",
+                    "Assisted in maintaining HR records and documentation.",
+                    "Managed HR policies."
+                ]
+            },
+            {
+                "title": "Marketing / HR Intern",
+                "company": "AIM INDIA PVT LTD",
+                "duration": "April-July 2022",
+                "responsibilities": [
+                    "Identified, developed, and evaluated marketing strategies.",
+                    "Communicated clearly and professionally with staff and customers.] }, "{
+                        "title": "Customer Service Representative",
+                        "company": "HONDA MOTORS",
+                        "duration": "May-July 2019",
+                        "responsibilities": [
+                            "Addressed customer service enquiries quickly and accurately.",
+                            "Assisted customers with product related questions, feedback, and complaints.",
+                            "Processed and issued product orders and service upgrades for customers."
+                        ]
+                    }
+                ],
+                "projects": [
+                    {
+                        "title": "Work Life balance of women working in Education sector (with reference to Indore)",
+                        "technologies_used": null,
+                        "objectives": "Understood the need for work-life balance, studied the difficulties faced by working women, and proposed ways to maintain work-life balance.",
+                        "contributions": "Researched, analyzed, and presented findings."
+                    }
+                ],
+                "skills": [
+                    "Good Communication",
+                    "Attention to detail",
+                    "Teamwork",
+                    "Accountancy",
+                    "Problem Solving",
+                    "Interpersonal",
+                    "Microsoft Excel",
+                    "Microsoft PowerPoint",
+                    "Human Resources",
+                    "Organizational"
+                ],
+                "certifications": [
+                    {
+                        "name": "Industry Readiness Program on Banking and Insurance by NSE ACADEMY",
+                        "year": null
+                    },
+                    {
+                        "name": "Microsoft Excel – Beginner to Advance from UDEMY",
+                        "year": null
+                    }
+                ],
+                "candidate_attributes_inferred": {
+                    "academic_performance": "65% in MBA, 70% in BBA",
+                    "initiative_and_self_learning": "Identified and developed marketing strategies, conducted a project on work-life balance.",
+                    "teamwork_or_leadership_traits": "Partnered with hiring managers, conducted employee orientation sessions.",
+                    "communication_clarity": "Communicated clearly and professionally with staff and customers.",
+                    "standout_traits": "Motivated, detailed oriented, quick learner."
+                }
+            }
+        },
+        "done_reason": "stop",
+        "done": true,
+        "total_duration": 132374342600,
+        "load_duration": 6689485800,
+        "prompt_eval_count": 852,
+        "prompt_eval_duration": 27794096400,
+        "eval_count": 786,
+        "eval_duration": 97879075000
+    }

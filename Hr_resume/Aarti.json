@@ -1,0 +1,88 @@
+{
+    "model": "mistral",
+    "created_at": "2025-05-07T06:01:24.7229973Z",
+    "message": {
+        "role": "assistant",
+        "content": {
+            "summary": "A Senior Business Associate with a positive attitude, effective marketing abilities, and a good listener. Constantly seeking new concepts and challenges. Demonstrates strong leadership skills by leading teams in various roles. Has experience working with CRM systems like Hubspot and managing accounts on platforms such as LinkedIn, Upwork, and Freelancer.com.",
+            "experience": [
+                {
+                    "title": "Leading Business Associate",
+                    "company": "Unspecified",
+                    "duration": "Present",
+                    "responsibilities": [
+                        "Managing various online business accounts on LinkedIn, Lusha, Upwork, and Freelancing",
+                        "Checking the entire database of clients on CRM",
+                        "Preparing Business Proposals for clients as per their needs",
+                        "Leading the Lead generation and International Business Team"
+                    ]
+                },
+                {
+                    "title": "Senior Business Associate (Tech. Team)",
+                    "company": [
+                        "HIE HQ",
+                        "Lyxel\u0026Flamingo"
+                    ],
+                    "duration": [
+                        "Nov 2022 - June 2023",
+                        "May 2022 - Nov 2022"
+                    ],
+                    "responsibilities": [
+                        "Browsing and reading on various platforms for business growth",
+                        "Managing various accounts on Upwork",
+                        "Keeping a check on bidding from all accounts",
+                        "Creating proposals for various projects of the company"
+                    ]
+                },
+                {
+                    "title": "Business Associate (Sales and Marketing)",
+                    "company": "YES IT LABS LLC",
+                    "duration": "Feb 2021 - April 2022",
+                    "responsibilities": [
+                        "Processing of all account payable documents",
+                        "Monitoring payment and expenditure",
+                        "Resolving client queries through E-mails or call"
+                    ]
+                },
+                {
+                    "title": "Business Executive (Sale)",
+                    "company": "Extramarks Education Pvt. Ltd.",
+                    "duration": "July 2020 - Dec 2020",
+                    "responsibilities": [
+                        "Handled the companys online presence – regularly updated the companys website and various social media accounts",
+                        "Monitored ongoing marketing campaigns",
+                        "Prepared presentations for prospective clients"
+                    ]
+                }
+            ],
+            "projects": [],
+            "skills": [
+                "CRM (Hubspot)",
+                "Account Management",
+                "Business Proposals",
+                "Marketing",
+                "Leadership",
+                "Teamwork",
+                "Upwork",
+                "Freelancer.com",
+                "Bark.com"
+            ],
+            "certifications": [],
+            "candidate_attributes_inferred": {
+                "academic_performance": "MBA from Jaypee Business School, JIIT University and B.com from Delhi University",
+                "initiative_and_self_learning": "Constantly seeking new concepts and challenges",
+                "teamwork_or_leadership_traits": "Leading teams in various roles",
+                "communication_clarity": "Resolving client queries through E-mails or call",
+                "standout_traits": "Positive attitude, effective marketing abilities, good listener, friendly nature, confidently accepts challenges"
+            }
+        }
+    },
+    "done_reason": "stop",
+    "done": true,
+    "total_duration": 102295525800,
+    "load_duration": 4179700,
+    "prompt_eval_count": 1079,
+    "prompt_eval_duration": 122771000,
+    "eval_count": 814,
+    "eval_duration": 102164492000
+}
